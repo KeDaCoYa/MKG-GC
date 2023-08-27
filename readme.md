@@ -12,12 +12,12 @@ Note： Due to the limitations of the agreement between UMLS and DrugBank, we ar
 
 # Run
 
-You need to download biobert first.
-
-
+You need to download biobert first: https://github.com/dmis-lab/biobert
 
 
 # requirements
 python>=3.8
 transformer == 3.0.0
 pytorch >= 1.7
+
+

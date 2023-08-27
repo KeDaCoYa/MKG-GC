@@ -1,0 +1,309 @@
+contains	contains
+is_abnormal_cell_of_disease	is abnormal cell of disease
+has_physical_part_of_anatomic_structure	has physical part of anatomic structure
+structural_class_of	structural class of
+disease_has_normal_tissue_origin	disease has normal tissue origin
+direct_procedure_site_of	direct procedure site of
+has_sign_or_symptom	has sign or symptom
+uses_possibly_included_substance	uses possibly included substance
+is_not_cytogenetic_abnormality_of_disease	is not cytogenetic abnormality of disease
+has_defining_characteristic	has defining characteristic
+entire_anatomy_structure_of	entire anatomy structure of
+finding_context_of	finding context of
+causative_agent_of	causative agent of
+is_not_primary_anatomic_site_of_disease	is not primary anatomic site of disease
+has_constitutional_part	has constitutional part
+has_indirect_procedure_site	has indirect procedure site
+has_method	has method
+has_salt_form	has salt form
+has_divisor	has divisor
+has_associated_condition	has associated condition
+has_direct_morphology	has direct morphology
+parent_of	parent of
+consider	consider
+has_active_moiety	has active moiety
+has_possibly_included_procedure_device	has possibly included procedure device
+gene_product_has_associated_anatomy	gene product has associated anatomy
+positively_regulates	positively regulates
+disposition_of	disposition of
+occurs_before	occurs before
+other_mapped_to	other mapped to
+has_manifestation	has manifestation
+has_component	has component
+moved_from	moved from
+has_branch	has branch
+is_mechanism_of_action_of_chemical_or_drug	is mechanism of action of chemical or drug
+mechanism_of_action_of	mechanism of action of
+replaces	replaces
+disease_has_primary_anatomic_site	disease has primary anatomic site
+is_not_molecular_abnormality_of_disease	is not molecular abnormality of disease
+specimen_of	specimen of
+default_outpatient_classification_of	default outpatient classification of
+has_nerve_supply	has nerve supply
+has_indirect_morphology	has indirect morphology
+part_anatomy_structure_of	part anatomy structure of
+has_challenge	has challenge
+has_diagnostic_criteria	has diagnostic criteria
+disease_may_have_associated_disease	disease may have associated disease
+has_possibly_included_pathology	has possibly included pathology
+arterial_supply_of	arterial supply of
+temporal_context_of	temporal context of
+isa	isa
+target_anatomy_has_procedure	target anatomy has procedure
+regional_part_of	regional part of
+has_ingredient	has ingredient
+other_mapped_from	other mapped from
+excised_anatomy_has_procedure	excised anatomy has procedure
+is_chemical_classification_of_gene_product	is chemical classification of gene product
+has_structural_class	has structural class
+focus_of	focus of
+place_traveled_to	place traveled to
+disease_has_normal_cell_origin	disease has normal cell origin
+temporally_followed_by	temporally followed by
+is_target	is target
+uses	uses
+gene_plays_role_in_process	gene plays role in process
+induces	induces
+has_free_acid_or_base_form	has free acid or base form
+has_route_of_administration	has route of administration
+lab_number_of	lab number of
+may_be_finding_of_disease	may be finding of disease
+disease_has_associated_disease	disease has associated disease
+classifies	classifies
+finding_method_of	finding method of
+has_answer	has answer
+referred_to_by	referred to by
+subset_includes_concept	subset includes concept
+may_be_treated_by	may be treated by
+has_contraindicated_class	has contraindicated class
+pharmacokinetics_of	pharmacokinetics of
+part_of	part of
+route_of_administration_of	route of administration of
+has_direct_device	has direct device
+is_not_finding_of_disease	is not finding of disease
+has_inherent_location	has inherent location
+form_of	form of
+has_system	has system
+is_associated_disease_of	is associated disease of
+has_clinician_form	has clinician form
+disease_may_have_finding	disease may have finding
+has_precise_active_ingredient	has precise active ingredient
+intent_of	intent of
+projects_from	projects from
+has_given_pharmaceutical_substance	has given pharmaceutical substance
+has_focus	has focus
+has_pcdc_ews_permissible_value	has pcdc ews permissible value
+derives	derives
+measures	measures
+inheritance_type_of	inheritance type of
+is_biochemical_function_of_gene_product	is biochemical function of gene product
+alternative_of	alternative of
+is_physiologic_effect_of_chemical_or_drug	is physiologic effect of chemical or drug
+specialty_of	specialty of
+is_normal_cell_origin_of_disease	is normal cell origin of disease
+process_output_of	process output of
+has_active_ingredient	has active ingredient
+exhibited_by	exhibited by
+may_be_prevented_by	may be prevented by
+has_direct_procedure_site	has direct procedure site
+branch_of	branch of
+procedure_has_partially_excised_anatomy	procedure has partially excised anatomy
+is_not_abnormal_cell_of_disease	is not abnormal cell of disease
+primary_mapped_from	primary mapped from
+see	see
+temporally_follows	temporally follows
+is_not_normal_tissue_origin_of_disease	is not normal tissue origin of disease
+contraindicated_with_disease	contraindicated with disease
+has_dose_form	has dose form
+uses_device	uses device
+has_modification	has modification
+has_imaged_location	has imaged location
+may_be_cytogenetic_abnormality_of_disease	may be cytogenetic abnormality of disease
+has_recipient_category	has recipient category
+has_procedure_morphology	has procedure morphology
+primary_mapped_to	primary mapped to
+negatively_regulates	negatively regulates
+has_related_factor	has related factor
+analyzes	analyzes
+related_part	related part
+has_inactive_ingredient	has inactive ingredient
+possibly_equivalent_to	possibly equivalent to
+is_not_normal_cell_origin_of_disease	is not normal cell origin of disease
+has_associated_observation	has associated observation
+mapped_from	mapped from
+device_used_by	device used by
+used_by	used by
+constitutional_part_of	constitutional part of
+has_finding_site	has finding site
+tissue_is_expression_site_of_gene_product	tissue is expression site of gene product
+manifestation_of	manifestation of
+biological_process_involves_gene_product	biological process involves gene product
+has_part	has part
+entry_combination_of	entry combination of
+gene_involved_in_pathogenesis_of_disease	gene involved in pathogenesis of disease
+associated_procedure_of	associated procedure of
+gene_product_affected_by_chemical_or_drug	gene product affected by chemical or drug
+characterized_by	characterized by
+eo_disease_maps_to_human_disease	eo disease maps to human disease
+has_alternative	has alternative
+has_entry_combination	has entry combination
+role_played_by	role played by
+has_conceptual_part	has conceptual part
+has_specimen_procedure	has specimen procedure
+associated_finding_of	associated finding of
+instrumentation_of	instrumentation of
+has_possibly_included_associated_finding	has possibly included associated finding
+gene_mapped_to_disease	gene mapped to disease
+disease_excludes_finding	disease excludes finding
+refers_to	refers to
+is_finding_of_disease	is finding of disease
+has_direct_substance	has direct substance
+has_causative_agent	has causative agent
+is_location_of_anatomic_structure	is location of anatomic structure
+may_be_molecular_abnormality_of_disease	may be molecular abnormality of disease
+alias_of	alias of
+property_of	property of
+onset_of	onset of
+pathological_process_of	pathological process of
+gene_associated_with_disease	gene associated with disease
+is_primary_anatomic_site_of_disease	is primary anatomic site of disease
+has_pcdc_gct_permissible_value	has pcdc gct permissible value
+has_definitional_manifestation	has definitional manifestation
+anatomic_structure_is_physical_part_of	anatomic structure is physical part of
+gene_product_expressed_in_tissue	gene product expressed in tissue
+has_occurrence	has occurrence
+has_phenotype	has phenotype
+has_measurement_method	has measurement method
+mapping_qualifier_of	mapping qualifier of
+is_exam_for	is exam for
+has_procedure_site	has procedure site
+life_circumstance_of	life circumstance of
+disease_has_finding	disease has finding
+is_interpreted_by	is interpreted by
+subject_of_information_of	subject of information of
+may_treat	may treat
+sends_output_to	sends output to
+same_as	same as
+has_active_metabolites	has active metabolites
+is_associated_anatomy_of_gene_product	is associated anatomy of gene product
+has_alias	has alias
+disease_excludes_primary_anatomic_site	disease excludes primary anatomic site
+is_pcdc_ews_permissible_value_for_variable	is pcdc ews permissible value for variable
+process_initiates_biological_process	process initiates biological process
+diagnostic_criteria_of	diagnostic criteria of
+used_for	used for
+has_precise_ingredient	has precise ingredient
+modifies	modifies
+has_parent	has parent
+method_of	method of
+gene_product_malfunction_associated_with_disease	gene product malfunction associated with disease
+associated_etiologic_finding_of	associated etiologic finding of
+disease_has_metastatic_anatomic_site	disease has metastatic anatomic site
+has_pathology	has pathology
+has_mapping_qualifier	has mapping qualifier
+has_associated_etiologic_finding	has associated etiologic finding
+access_of	access of
+default_inpatient_classification_of	default inpatient classification of
+related_to	related to
+classified_as	classified as
+has_risk_factor	has risk factor
+replaced_by	replaced by
+gene_found_in_organism	gene found in organism
+receives_input_from	receives input from
+occurs_in	occurs in
+may_diagnose	may diagnose
+has_specimen_source_morphology	has specimen source morphology
+has_ctdc_value	has ctdc value
+has_target	has target
+has_specimen_substance	has specimen substance
+has_imaging_focus	has imaging focus
+has_possibly_included_procedure_site	has possibly included procedure site
+do_not_code_with	do not code with
+enzyme_metabolizes_chemical_or_drug	enzyme metabolizes chemical or drug
+laterality_of	laterality of
+conceptual_part_of	conceptual part of
+severity_of	severity of
+regulates	regulates
+has_at_risk_population	has at risk population
+clinical_course_of	clinical course of
+chemotherapy_regimen_has_component	chemotherapy regimen has component
+is_object_guidance_for	is object guidance for
+substance_used_by	substance used by
+has_device_intended_site	has device intended site
+finding_site_of	finding site of
+disease_has_associated_anatomic_site	disease has associated anatomic site
+see_from	see from
+approach_of	approach of
+may_be_diagnosed_by	may be diagnosed by
+definitional_manifestation_of	definitional manifestation of
+evaluation_of	evaluation of
+disease_excludes_normal_tissue_origin	disease excludes normal tissue origin
+has_specimen_source_topography	has specimen source topography
+consumer_friendly_form_of	consumer friendly form of
+access_instrument_of	access instrument of
+therapeutic_class_of	therapeutic class of
+subject_relationship_context_of	subject relationship context of
+is_modification_of	is modification of
+completely_excised_anatomy_has_procedure	completely excised anatomy has procedure
+cause_of	cause of
+interpretation_of	interpretation of
+process_includes_biological_process	process includes biological process
+has_form	has form
+inverse_was_a	inverse was a
+is_structural_domain_or_motif_of_gene_product	is structural domain or motif of gene product
+biological_process_results_from_biological_process	biological process results from biological process
+procedure_may_have_excised_anatomy	procedure may have excised anatomy
+gene_product_plays_role_in_biological_process	gene product plays role in biological process
+is_associated_anatomic_site_of	is associated anatomic site of
+is_normal_tissue_origin_of_disease	is normal tissue origin of disease
+has_contraindicated_physiologic_effect	has contraindicated physiologic effect
+inverse_isa	inverse isa
+uses_substance	uses substance
+interprets	interprets
+has_pcdc_aml_permissible_value	has pcdc aml permissible value
+has_basis_of_strength_substance	has basis of strength substance
+dose_form_of	dose form of
+gene_product_has_chemical_classification	gene product has chemical classification
+is_location_of_biological_process	is location of biological process
+realization_of	realization of
+associated_morphology_of	associated morphology of
+metabolic_site_of	metabolic site of
+has_measured_component	has measured component
+associated_with	associated with
+use	use
+tradename_of	tradename of
+active_ingredient_of	active ingredient of
+member_of	member of
+mapped_to	mapped to
+direct_device_of	direct device of
+was_a	was a
+occurs_after	occurs after
+contraindicated_class_of	contraindicated class of
+partially_excised_anatomy_has_procedure	partially excised anatomy has procedure
+gene_encodes_gene_product	gene encodes gene product
+direct_substance_of	direct substance of
+icd_dagger	icd dagger
+procedure_has_excised_anatomy	procedure has excised anatomy
+has_contraindicated_mechanism_of_action	has contraindicated mechanism of action
+has_associated_finding	has associated finding
+due_to	due to
+has_associated_morphology	has associated morphology
+course_of	course of
+procedure_site_of	procedure site of
+has_associated_procedure	has associated procedure
+physiologic_effect_of	physiologic effect of
+has_patient_type	has patient type
+biological_process_has_result_chemical_or_drug	biological process has result chemical or drug
+pcdc_data_type_of	pcdc data type of
+has_tradename	has tradename
+gene_product_has_biochemical_function	gene product has biochemical function
+has_contraindicated_drug	has contraindicated drug
+has_process_output	has process output
+precise_ingredient_of	precise ingredient of
+has_regional_part	has regional part
+indirect_procedure_site_of	indirect procedure site of
+component_of	component of
+active_metabolites_of	active metabolites of
+measured_component_of	measured component of
+has_member	has member
+may_prevent	may prevent

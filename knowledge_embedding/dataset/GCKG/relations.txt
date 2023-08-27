@@ -1,0 +1,5 @@
+drug_associated_with_gene
+gene_associated_with_disease
+drug_assotated_with_drug
+gene_assotated_with_gene
+treat

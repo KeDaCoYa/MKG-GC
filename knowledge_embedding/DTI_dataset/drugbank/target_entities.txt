@@ -1,0 +1,4400 @@
+Betaine--homocysteine S-methyltransferase 1
+Non-receptor tyrosine-protein kinase TYK2
+DNA primase/helicase
+Hyaluronan and proteoglycan link protein 3
+5,10-methylenetetrahydrofolate reductase
+Formate dehydrogenase H
+Elongation of very long chain fatty acids protein 5
+Bifunctional epoxide hydrolase 2
+FAD-linked sulfhydryl oxidase ALR
+Heparan sulfate glucosamine 3-O-sulfotransferase 3A1
+2-hydroxychromene-2-carboxylate isomerase
+Cytoplasmic tyrosine-protein kinase BMX
+Phosphoglucomutase-1
+GDH/6PGL endoplasmic bifunctional protein
+Enoyl-CoA delta isomerase 2, mitochondrial
+Interleukin-1 receptor-associated kinase 1
+Interleukin-1 alpha
+Receptor-type tyrosine-protein phosphatase S
+Diaminopimelate decarboxylase
+Acid-sensing ion channel 2
+Elongation factor Tu GTP-binding domain-containing protein 1
+Thiamine-phosphate synthase
+C-C motif chemokine 5
+RNA polymerase sigma factor
+Semenogelin-2
+Serine/threonine-protein kinase MRCK gamma
+Peptostreptococcal albumin-binding protein
+Serine/threonine-protein phosphatase PP1-gamma catalytic subunit
+Ubiquitin-60S ribosomal protein L40
+Serine/threonine-protein kinase DCLK2
+3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+40S ribosomal protein S5, putative
+Gamma-aminobutyric acid receptor subunit gamma-1
+Aminomethyltransferase
+Cytotoxic T-lymphocyte protein 4
+Neuronal acetylcholine receptor subunit alpha-10
+Poly [ADP-ribose] polymerase 15
+Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Deoxycytidylate deaminase
+Growth hormone secretagogue receptor type 1
+Mycothiol acetyltransferase
+Alcohol dehydrogenase class 4 mu/sigma chain
+Hemoglobin subunit alpha
+Purine nucleoside phosphorylase DeoD-type
+50S ribosomal protein L10
+Retinol dehydrogenase 12
+cGMP-inhibited 3',5'-cyclic phosphodiesterase A
+Vascular endothelial growth factor A
+Pulmonary surfactant-associated protein D
+Somatostatin receptor type 5
+Nuclear factor NF-kappa-B p100 subunit
+Cytochrome b
+Metalloproteinase inhibitor 3
+Pro-cathepsin H
+Cytosolic purine 5'-nucleotidase
+45 kDa immediate-early protein 2
+Insulinase, putative
+Aldehyde dehydrogenase, mitochondrial
+Envelope glycoprotein gp160
+Cytochrome P450 3A7
+ADP-ribosylation factor-like protein 2
+Hut operon positive regulatory protein
+Melanocortin receptor 3
+Chaperone, putative
+Atrial natriuretic peptide receptor 1
+Cannabinoid receptor 1
+Cyclopropane mycolic acid synthase MmaA2
+Beta-amylase
+Mitochondrial carnitine/acylcarnitine carrier protein CACL
+Myosin light chain kinase 2, skeletal/cardiac muscle
+Endo-1,4-beta-xylanase
+Photosystem Q(B) protein 1
+Gamma-aminobutyric acid receptor subunit epsilon
+Pyrroline-5-carboxylate reductase 2
+Cytochrome c3
+Glutamine synthetase, putative
+Kainate receptors
+Pancreatic lipase-related protein 2
+C-Jun-amino-terminal kinase-interacting protein 1
+Amiloride-sensitive amine oxidase [copper-containing]
+p-hydroxybenzoate hydroxylase
+Heat shock protein HSP 90-beta
+4-hydroxythreonine-4-phosphate dehydrogenase
+4-alpha-glucanotransferase
+Ribonucleoside-diphosphate reductase subunit M2
+Potassium voltage-gated channel subfamily D member 2
+Tyrosine-protein phosphatase non-receptor type 1
+Ficolin-3
+Penicillin-binding protein 2B
+2-amino-3-ketobutyrate coenzyme A ligase
+Methylaspartate mutase S chain
+Solute carrier family 12 member 3
+Carbonic anhydrase 9
+Iodotyrosine dehalogenase 1
+Cytochrome b6-f complex iron-sulfur subunit
+Macrophage mannose receptor 1
+Ribosomal protein S6 kinase alpha-6
+Phosphoserine aminotransferase
+Pyruvate kinase PKLR
+Modification methylase HhaI
+Receptor-type tyrosine-protein phosphatase epsilon
+Sodium- and chloride-dependent GABA transporter 1
+ADP-ribosylation factor-like protein 5B
+Synaptotagmin-2
+Alpha-1B adrenergic receptor
+Serine/threonine-protein kinase ULK1
+30S ribosomal protein S13
+Elongation of very long chain fatty acids protein 2
+MutT/nudix family protein
+Pyridoxine 5'-phosphate synthase
+Signal transducer and activator of transcription 3
+Potassium voltage-gated channel subfamily A member 2
+Endothelin-converting enzyme 1
+Retinal dehydrogenase 2
+Sodium/glucose cotransporter 2
+Aldehyde dehydrogenase family 3 member B2
+Vesicle-associated membrane protein 2
+Hydroxylapatite
+NF-kappa-B essential modulator
+Serine repeat antigen 5
+Alpha-1 adrenergic receptors
+Sterol regulatory element-binding protein 1
+Interleukin-3
+Retinol-binding protein 3
+Egl nine homolog 2
+Glutathione S-transferase omega-1
+Epididymal-specific lipocalin-9
+Homeobox protein engrailed-2
+Voltage-dependent L-type calcium channel subunit alpha-1D
+Adenosine receptor A2a
+3-phosphoshikimate 1-carboxyvinyltransferase
+Cytokine receptor common subunit gamma
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5
+Outer membrane protein p64k or PM-6
+Histone-lysine N-methyltransferase EZH2
+DNA polymerase alpha catalytic subunit
+Tyrosine-protein kinase SYK
+Arabinose operon regulatory protein
+50S ribosomal protein L4
+Corticosteroid 11-beta-dehydrogenase isozyme 2
+Thymidine kinase, cytosolic
+3 beta-hydroxysteroid dehydrogenase/Delta 5--&gt;4-isomerase type 1
+Cation-independent mannose-6-phosphate receptor
+Citrate lyase subunit beta-like protein
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+Regucalcin
+Threonine--tRNA ligase, cytoplasmic
+Eukaryotic translation initiation factor 4E
+Putative inward rectifier potassium channel
+Cyclin-dependent kinase inhibitor 1
+Nitroreductase family protein
+Outer membrane protein F
+Tyrosine-protein kinase Tec
+5-hydroxytryptamine 3 receptor
+Immunoglobulin superfamily member 10
+5-hydroxytryptamine 2 receptor
+Alpha-1B-glycoprotein
+Phenazine biosynthesis protein PhzD
+DNA polymerase
+Bifunctional purine biosynthesis protein PURH
+Sodium-dependent multivitamin transporter
+T-cell surface glycoprotein CD3 zeta chain
+5-hydroxytryptamine receptor 2B
+Hemoglobin subunit beta
+Hornerin
+40S ribosomal protein S18
+Fructose-bisphosphate aldolase
+60S ribosomal protein L21
+Glutamate receptor ionotropic, kainate 2
+ATP-dependent dethiobiotin synthetase BioD
+Monocarboxylate transporter 1
+Transcription factor p65
+Methylsterol monooxygenase 1
+Vitamin D-binding protein
+Malate synthase G
+Probable phosphatase YcdX
+Calcineurin B homologous protein 1
+Haloacid dehalogenase-like hydrolase
+Glucose-1-phosphatase
+Endoglucanase E-4
+Eukaryotic initiation factor 4A
+Beta-lactamase OXA-1
+Solute carrier family 2, facilitated glucose transporter member 2
+40S ribosomal protein S21
+Mandelate racemase
+Malto-oligosyltrehalose trehalohydrolase
+Ribosomal protein S6 kinase alpha-3
+Interferon-inducible GTPase 5
+Phosphotriesterase
+Calcium-transporting ATPase
+Siroheme synthase
+Sodium- and chloride-dependent GABA transporter 3
+Glutamate dehydrogenase 2, mitochondrial
+Cytochrome c oxidase subunit 5A, mitochondrial
+Leukotriene B4 receptor 2
+Sterol O-acyltransferase 2
+Ribokinase
+Fatty acid-binding protein TM_1468
+Glutamate carboxypeptidase 2
+Cyclin A
+Outer membrane porin, OprD family
+ADP-L-glycero-D-manno-heptose-6-epimerase
+Chaperone protein ClpB
+Thiol groups
+Insulin receptor
+Probable glutamate--tRNA ligase, mitochondrial
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial
+Ubiquitin-conjugating enzyme E2 D2
+Pulmonary surfactant-associated protein A1
+Disks large homolog 4
+2-isopropylmalate synthase
+Glutaminase kidney isoform, mitochondrial
+Trafficking protein particle complex subunit 4
+Keratin-associated protein 5-3
+Group 10 secretory phospholipase A2
+Plasminogen
+Calcium/calmodulin-dependent protein kinase type II subunit gamma
+SNF-related serine/threonine-protein kinase
+Phosphatidylserine synthase 1
+Sterol O-acyltransferase 1
+Proteasome subunit alpha type-7
+Primary amine oxidase
+C-C motif chemokine 8
+Cyclin-dependent kinase 7
+Peptidyl-prolyl cis-trans isomerase G
+Integrin alpha-4
+Sodium/potassium-transporting ATPase subunit alpha-1
+Flap endonuclease 1
+Squalene synthase
+Steroid Delta-isomerase
+Glutathione peroxidase 6
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+Keratin, type II cytoskeletal 6A
+Peptidyl-prolyl cis-trans isomerase
+30S ribosomal protein S14
+Muscle, skeletal receptor tyrosine-protein kinase
+Major NAD(P)H-flavin oxidoreductase
+Mucin-16
+Laminin subunit gamma-1
+Major histocompatibility complex class I-related gene protein
+Glutamate--cysteine ligase regulatory subunit
+Nitric oxide
+HCG20471, isoform CRA_c
+Histidine--tRNA ligase, cytoplasmic
+3-oxo-5-beta-steroid 4-dehydrogenase
+Interferon alpha-2
+Trimethylamine dehydrogenase
+3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Glucose--fructose oxidoreductase
+Tyrosine-protein kinase JAK2
+Ribonuclease pancreatic
+Glutathione S-transferase A5
+Phosphopantothenoylcysteine decarboxylase
+Putative ribosome biogenesis GTPase RsgA
+Fructose-1,6-bisphosphatase 1
+Endonuclease 8-like 1
+Hydroxylamine reductase
+AppA protein
+7-dehydrocholesterol reductase
+5'-AMP-activated protein kinase catalytic subunit alpha-1
+30S ribosomal protein S8
+G protein-activated inward rectifier potassium channel 3
+Putative alkylsulfatase
+Neutral alpha-glucosidase C
+Bifunctional protein PyrR
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5
+Adenosine
+Protein UshA
+Serine/arginine-rich splicing factor 4
+Gamma-hemolysin component B
+NADH-ubiquinone oxidoreductase chain 4L
+Melanocortin receptor 5
+Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial
+FMN-dependent NADH-azoreductase
+Atrial natriuretic peptide receptor 3
+Megakaryocyte-associated tyrosine-protein kinase
+Grancalcin
+Arsenate reductase
+CAI-1 autoinducer synthase
+Calcium-activated potassium channel
+Bifunctional protein BirA
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1
+Casein kinase II subunit beta
+Serine palmitoyltransferase 3
+Glyceraldehyde-3-phosphate dehydrogenase
+Coagulation factor IX
+RAC-beta serine/threonine-protein kinase
+Voltage-dependent L-type calcium channel subunit alpha-1C
+tRNA (cmo5U34)-methyltransferase
+GTPase Der
+Aspartate ammonia-lyase
+SH2B adapter protein 3
+Streptavidin
+ATP-sensitive inward rectifier potassium channel 8
+Tryptophan--tRNA ligase, cytoplasmic
+Glutathione S-transferase Mu 4
+Catalase-peroxidase
+Spermine oxidase
+DNA topoisomerase 4 subunit A
+Peptidoglycan recognition protein 3
+IgG heavy chain
+DNA-directed RNA polymerase subunit beta
+Poly [ADP-ribose] polymerase 2
+60S ribosomal protein L18
+Thymic stromal lymphopoietin
+Pro-opiomelanocortin
+Maltose binding protein
+Insulin-degrading enzyme
+6-phosphogluconolactonase
+Uncharacterized N-acetyltransferase YvbK
+Proteasome subunit alpha type-4
+Histone acetyltransferase KAT2A
+Somatostatin receptor type 2
+Arsenic
+Ubiquinol-cytochrome c reductase iron-sulfur subunit
+Keratin, type I cytoskeletal 12
+5-hydroxytryptamine receptor 3D
+Geranylgeranyl transferase type-2 subunit beta
+Kallikrein-1
+Estrogen receptor alpha
+Transcriptional regulator, IclR family
+Actin-related protein 2
+Cytochrome P450 2B6
+Sphingosine kinase 2
+Quinohemoprotein alcohol dehydrogenase ADH IIB
+Protein kinase C theta type
+Penicillin-binding protein 3
+Tyrosine-protein kinase Fgr
+ATP phosphoribosyltransferase
+Transcriptional regulator, HTH_3 family
+Heme oxygenase 2
+Laccase domain protein YfiH
+Putative stringent starvation protein A
+Collagen alpha-1(III) chain
+Casein kinase II subunit alpha'
+Cannabinoid receptor 2
+Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1
+Somatostatin receptor type 1
+Phosphatidylinositol 3-kinase regulatory subunit beta
+Alkaline phosphatase, placental-like
+BMP-2-inducible protein kinase
+FkbI
+Xaa-Pro aminopeptidase
+Apolipoprotein C-III
+eIF-2-alpha kinase GCN2
+Inositol 1,4,5-trisphosphate receptor type 1
+1-deoxypentalenic acid 11-beta-hydroxylase
+GABA(A) Receptor Benzodiazepine Binding Site
+Matrix metalloproteinase-24
+Thermonuclease
+Signal recognition particle 14 kDa protein
+S-phase kinase-associated protein 1
+Urokinase-type plasminogen activator
+Serpin B9
+Acetylglutamate kinase
+Endo-1,4-beta-xylanase A
+Long-chain N-acyl amino acid synthase
+Cytochrome b5
+Isocitrate dehydrogenase [NADP], mitochondrial
+N(G),N(G)-dimethylarginine dimethylaminohydrolase 1
+Nuclear factor erythroid 2-related factor 1
+Thromboxane A2 receptor
+Glycogen synthase kinase-3 alpha
+Voltage-dependent calcium channel gamma-2 subunit
+Smoothened homolog
+Hepatitis B virus receptor binding protein
+Acetolactate synthase, catabolic
+Alanine racemase, catabolic
+Serine/threonine-protein kinase/endoribonuclease IRE1
+Orf protein
+Peptide amidase
+Glycosyltransferase 6 domain-containing protein 1
+UDP-N-acetylenolpyruvoylglucosamine reductase
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial
+Acetyl-CoA acetyltransferase, mitochondrial
+Tumor necrosis factor
+Potassium voltage-gated channel subfamily A member 3
+Bile salt sulfotransferase
+Thermoresistant gluconokinase
+Granulocyte colony-stimulating factor receptor
+N-acylneuraminate cytidylyltransferase
+V-1 protease
+Acyl-CoA thioesterase I
+11-cis retinol dehydrogenase
+Polymerase acidic protein
+L-rhamnose isomerase
+Mitogen-activated protein kinase kinase kinase kinase 1
+Glycine betaine-binding periplasmic protein
+[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial
+Aspartoacylase
+Aurora kinase A
+Pentaerythritol tetranitrate reductase
+Potassium voltage-gated channel subfamily KQT member 3
+Phosphatidylserine decarboxylase proenzyme
+Actin, alpha skeletal muscle
+Heparan sulfate
+Endoglucanase C
+Peroxisomal acyl-coenzyme A oxidase 1
+VLA-4 (very late antigen-4)
+DNA-directed RNA polymerase subunit alpha
+Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma
+Kappa-casein
+Prostaglandin G/H synthase 1
+Nuclease P1
+D-hydantoinase
+Structural polyprotein
+Acid-sensing ion channel 3
+Sodium channel protein type 4 subunit alpha
+Selenoprotein P
+alpha1-acid glycoprotein
+Ig alpha-2 chain C region
+Puromycin-sensitive aminopeptidase
+Caspase-8
+Septum formation protein Maf
+Caspase-3
+Tumor-associated calcium signal transducer 2
+Glutamate receptor ionotropic, NMDA 1
+Bone morphogenetic protein receptor type-2
+Free methionine-R-sulfoxide reductase
+Serotonin N-acetyltransferase
+Ubiquitin-like modifier-activating enzyme 1
+Neuronal calcium sensor 1
+Skin epithelial cells
+Propionyl-CoA carboxylase complex B subunit
+Vesicle-associated membrane protein 1
+Uroporphyrinogen-III C-methyltransferase
+Split-Soret cytochrome c
+ATP-sensitive potassium channel
+Protein S100-A8
+Tyrosine-protein phosphatase non-receptor type 11
+Vitamin D3 receptor
+Phosphatidylinositol 3-kinase regulatory subunit gamma
+Flavohemoprotein
+T-lymphocyte activation antigen CD86
+Cytochrome c1
+Carbonic anhydrase
+Fatty aldehyde dehydrogenase
+Aldehyde reductase
+3-oxo-5-alpha-steroid 4-dehydrogenase
+Endo-1,4-beta glucanase EngF
+Placenta growth factor
+NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
+Matrix metalloproteinase-21
+Sulfite reductase [NADPH] hemoprotein beta-component
+Complement C1q subcomponent subunit A
+Variola virus DNA
+Kininogen-1
+Metallothionein-2
+Protein Nef
+Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform
+HLA class I histocompatibility antigen, A-3 alpha chain
+Metabotropic glutamate receptor 4
+Acetyl-coenzyme A synthetase 2-like, mitochondrial
+Peptidoglycan synthase FtsI
+30S ribosomal protein S10
+Palmitoyl-protein thioesterase 1
+Serine/threonine-protein kinase 16
+CDP-glucose 4,6-dehydratase
+Nitrite reductase
+Elongation factor 1-alpha
+Ig kappa chain V-III region GOL
+L-lactate dehydrogenase A-like 6A
+Abelson tyrosine-protein kinase 2
+Ferrochelatase, mitochondrial
+Short tail fiber protein
+Alpha-1-antichymotrypsin
+Histone deacetylase 6
+Fibrinogen beta chain
+Plasmepsin-2
+Crotonobetainyl-CoA:carnitine CoA-transferase
+Glutathione synthetase
+Cystathionine beta-synthase
+Protein arginine N-methyltransferase 1
+Group 1 truncated hemoglobin GlbN
+Azurin
+Chromobox protein homolog 5
+14-3-3 protein theta
+Transketolase 1
+cGMP-inhibited 3',5'-cyclic phosphodiesterase B
+Peptidyl-prolyl cis-trans isomerase F, mitochondrial
+Beta-galactosidase
+ATP-dependent DNA helicase RecQ
+Aspartate carbamoyltransferase catalytic chain
+Receptor-interacting serine/threonine-protein kinase 1
+Peroxisome proliferator-activated receptor alpha
+Solute carrier family 15 member 1
+Protein S100-A7
+Maleylacetoacetate isomerase
+Nucleoside diphosphate kinase A
+Pro-neuropeptide Y
+Glycine receptor subunit beta
+Cyclin-dependent kinase 1
+Outer membrane usher protein PapC
+Cytochrome c oxidase polypeptide 2A
+Formyl-coenzyme A transferase
+Quinone oxidoreductase
+Beta-lactamase TEM
+Sphingosine 1-phosphate receptor 5
+Mitogen-activated protein kinase kinase kinase kinase 5
+Apolipoprotein L1
+Protein ninB
+Conserved protein
+S-methylmethionine--homocysteine S-methyltransferase BHMT2
+Glycylpeptide N-tetradecanoyltransferase 1
+Penicillin-binding protein 4
+Inhibin beta A chain
+Matrix protein 2
+GTPase (Rab6)
+Glutaminase liver isoform, mitochondrial
+DTDP-4-dehydrorhamnose 3,5-epimerase
+cAMP-dependent protein kinase inhibitor alpha
+Sodium/iodide cotransporter
+Membrane protein involved in aromatic hydrocarbon degradation
+Cytochrome b6-f complex subunit 6
+Neuraminidase
+Voltage gated L-type calcium channel
+E-selectin
+GDP-mannose 6-dehydrogenase
+5'-fluoro-5'-deoxy-adenosine synthase
+Alpha-2B adrenergic receptor
+Y+L amino acid transporter 1
+Vascular endothelial growth factor receptor 3
+Putative dehydrogenase/reductase SDR family member 4-like 2
+Thioredoxin-related protein, putative
+cAMP-dependent protein kinase regulatory subunit
+Leucine--tRNA ligase, cytoplasmic
+Serine/threonine-protein kinase tousled-like 2
+Sensor cyclic diguanylate phosphodiesterase, GAF and GAF domain-containing
+Cellulose 1,4-beta-cellobiosidase
+Canalicular multispecific organic anion transporter 1
+Inositol monophosphatase 2
+Bifunctional protein GlmU
+Sweat ducts
+Nucleobindin-1
+Macrophage metalloelastase
+Est1e
+Neuropeptide Y receptor type 5
+Anthrax toxin receptor 1
+Glutamate decarboxylase 1
+60S ribosomal protein L23a
+Coatomer subunit gamma-1
+Inter-alpha-trypsin inhibitor heavy chain H2
+TraN protein
+Replication protein
+L-fuculose phosphate aldolase
+Tubby protein homolog
+Serine/threonine-protein kinase TAO3
+Folylpolyglutamate synthase
+Carboxylesterase
+ATP synthase subunit b
+D-ribose pyranase
+Tyrosine-protein kinase Lyn
+Programmed cell death protein 1
+Sulfotransferase family cytosolic 2B member 1
+Glutamate decarboxylase alpha
+Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2
+B12-independent glycerol dehydratase
+Beta-lactamase IMP-1
+Methyl-accepting chemotaxis protein II
+Interleukin-13
+Sodium channel protein type 10 subunit alpha
+NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+Follistatin
+D-2-hydroxyisocaproate dehydrogenase
+Maltogenic amylase
+Acyl-CoA thioesterase 2
+Perilipin-3
+Epididymal sperm-binding protein 1
+Importin subunit alpha
+D-alanyl-D-alanine carboxypeptidase DacC
+Erythropoietin receptor
+Tubulin beta-2 chain
+40S ribosomal protein S28
+Pyruvate oxidase
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Cadherin-11
+Subtilisin BPN'
+Aklanonic acid methyl ester cyclase
+Tumor necrosis factor receptor superfamily member 10B
+Sodium channel subunit beta-3
+Cell division control protein 2 homolog
+Chaperone protein TorD
+Thiopurine S-methyltransferase
+Alkaline protease
+Hyaluronan and proteoglycan link protein 1
+Glucarate dehydratase
+Tissue factor pathway inhibitor
+Sodium channel protein type 9 subunit alpha
+3-oxo-5-alpha-steroid 4-dehydrogenase 2
+Fibroblast growth factor receptor 3
+Phospholipase D
+Transferrin receptor
+Integrin alpha-V
+Alginate lyase
+Endothelin-1 receptor
+Calcium/calmodulin-dependent protein kinase kinase 2
+Complement factor I
+Transforming growth factor beta-2
+Cytosol aminopeptidase
+Apoptosis-inducing factor 1, mitochondrial
+AMP nucleosidase
+Beta-lactam-inducible penicillin-binding protein
+Dual specificity mitogen-activated protein kinase kinase 1
+Integrin alpha-5
+Poliovirus receptor
+O-methyltransferase
+Alcohol dehydrogenase (NADP(+))
+Small conductance calcium-activated potassium channel protein 2
+Reducing end xylose-releasing exo-oligoxylanase
+Alpha-2-antiplasmin
+(S)-mandelate dehydrogenase
+Phosphatidylinositol 3-kinase regulatory subunit alpha
+Deoxyribose-phosphate aldolase
+Metallothionein-3
+Serine palmitoyltransferase 2
+Fibrinogen gamma chain
+Acetyl transferase
+Modification methylase TaqI
+Mitogen-activated protein kinase 8
+Serine racemase
+Serine--tRNA ligase, cytoplasmic
+Voltage-dependent calcium channel gamma-1 subunit
+Misshapen-like kinase 1
+Keratin, type I cytoskeletal 9
+Gamma-butyrobetaine dioxygenase
+Glutamate decarboxylase-like protein 1
+HSP40, subfamily A, putative
+Sodium/hydrogen exchanger 3
+Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta
+Glycine N-methyltransferase
+Eukaryotic translation initiation factor 2 subunit 3
+Sodium channel protein type 11 subunit alpha
+Potassium channel subfamily K member 6
+Utrophin
+Pepsin A-5
+N-acetyl-D-glucosamine kinase
+WbpP
+Formaldehyde-activating enzyme
+C protein alpha-antigen
+ATP synthase subunit e, mitochondrial
+Progesterone receptor
+Nitric oxide synthase, endothelial
+Vanillate porin OpdK
+Lipase 1
+Fucose-binding lectin PA-IIL
+Tubulin alpha-1C chain
+Dehydrogenase/reductase SDR family member 11
+Tryptophan synthase alpha chain
+5'-nucleotidase
+Metabotropic glutamate receptor 8
+Penicillin-binding protein
+Methylmalonyl-CoA decarboxylase
+1,4-Dihydroxy-2-naphthoyl-CoA synthase
+Interleukin-1 receptor-associated kinase 4
+Fibronectin
+tRNA (guanine-N(1)-)-methyltransferase
+RNA-directed RNA polymerase catalytic subunit
+UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Integrase
+Glycine N-acyltransferase-like protein 1
+Alpha-ketoglutarate-dependent taurine dioxygenase
+GrlR
+Serine/threonine-protein kinase Nek4
+L-phenylalanine dehydrogenase
+Adhesin
+ActVA 6 protein
+47 kDa membrane antigen
+Molybdenum cofactor biosynthesis protein B
+Receptor tyrosine-protein kinase erbB-3
+Putative cytochrome P450
+Tumor necrosis factor ligand superfamily member 13B
+Mitogen-activated protein kinase kinase kinase kinase 4
+Serine/threonine-protein kinase SIK1
+Copper chaperone for superoxide dismutase
+NADH dehydrogenase
+ABC-type transporter, periplasmic subunit
+Cytosolic 10-formyltetrahydrofolate dehydrogenase
+Putative ATP-dependent Clp protease proteolytic subunit, mitochondrial
+Thyrotropin receptor
+Dihydrofolate reductase
+Inner centromere protein
+Hydroxyapatite
+ADP-ribosyl cyclase 2
+tRNA-dihydrouridine synthase
+Vascular cell adhesion protein 1
+Beta-lactamase OXA-2
+Beta-lactamase
+Profilin-2
+N-acetylneuraminate lyase
+Hemopexin
+DevB protein
+Annexin A1
+DNA-dependent protein kinase catalytic subunit
+Interferon gamma
+Complement C4-A
+Ileal sodium/bile acid cotransporter
+Matrix metalloproteinase-23
+Anaerobic ribonucleoside-triphosphate reductase
+Serine/threonine-protein kinase 32A
+NADP-dependent malic enzyme
+Retinol dehydrogenase 11
+ATP synthase subunit delta, mitochondrial
+Trafficking protein particle complex subunit 1
+Vimentin
+Interleukin-2
+Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform
+Chemotaxis protein CheY
+Glutamate receptor ionotropic, kainate 1
+Prolyl 4-hydroxylase subunit alpha-1
+Aldose reductase
+Alcohol dehydrogenase class-3
+M-phase inducer phosphatase 2
+Protein RecA
+Serine/threonine-protein kinase PLK2
+Rhesus blood group D antigen
+MAP kinase-interacting serine/threonine-protein kinase 2
+Pol polyprotein
+Fatty acid desaturase 2
+Casein kinase II subunit alpha
+Deoxyuridine 5'-triphosphate nucleotidohydrolase
+Retinoic acid receptor alpha
+Glucan 1,4-alpha-maltohexaosidase
+Phosphoribosylformylglycinamidine synthase
+Glutathione S-transferase P
+Phenol 2-hydroxylase component B
+Type-1 angiotensin II receptor
+Gamma-aminobutyric acid receptor subunit pi
+Replicase polyprotein 1a
+Lipoprotein MxiM
+L-lactate dehydrogenase B chain
+Pyruvate kinase
+3-phosphoinositide-dependent protein kinase 1
+Caspase-1
+Gastrin
+Neutral ceramidase
+Glutamate decarboxylase 1 (Brain, 67kDa)
+Alpha-lytic protease
+30S ribosomal protein Thx
+Cytochrome P450 3A4
+40S ribosomal protein S8
+Low affinity immunoglobulin gamma Fc region receptor II-a
+cAMP-specific 3',5'-cyclic phosphodiesterase 4C
+Histone deacetylase 2
+Aminopeptidase S
+3-hydroxyanthranilate 3,4-dioxygenase
+Alpha-amylase 2B
+4-chlorobenzoyl CoA dehalogenase
+1-cys peroxiredoxin
+Protein S100-A9
+Junction plakoglobin
+Hypoxanthine phosphoribosyltransferase
+Glutamate--tRNA ligase
+Steroid 17-alpha-hydroxylase/17,20 lyase
+Bifunctional dihydrofolate reductase-thymidylate synthase
+TGF-beta receptor type-2
+L-asparagine
+Beta-2-microglobulin
+Dopamine beta-hydroxylase
+Cellulase B
+Chorismate mutase AroH
+Tubulin monoglycylase TTLL3
+Potassium channel subfamily K member 3
+D-lactate dehydrogenase
+Superoxide dismutase [Mn], mitochondrial
+Sortase B
+Integrin alpha-X
+Choloylglycine hydrolase
+Coagulation factor XIII B chain
+Photoactive yellow protein
+Formate dehydrogenase, nitrate-inducible, iron-sulfur subunit
+Interferon-stimulated gene 20 kDa protein
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1
+Ras-related protein Rab-11A
+Glutathione S-transferase kappa 1
+Carbapenem-hydrolyzing beta-lactamase KPC
+Protein-L-isoaspartate(D-aspartate) O-methyltransferase
+40S ribosomal protein S5
+D-galactose-binding periplasmic protein
+Trimethyllysine dioxygenase, mitochondrial
+Gamma-aminobutyric acid receptor subunit alpha-5
+Biotin carboxylase
+TraO protein
+Methylmalonyl-CoA carboxyltransferase 12S subunit
+Ephrin type-A receptor 4
+Ribosome-binding protein 1
+Inositol monophosphatase 1
+Ig gamma-2 chain C region
+Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating
+L-allo-threonine aldolase
+Thyroxine-binding globulin
+Penicillin G acylase
+Neuropeptide Y receptor type 4
+Regulatory protein SdiA
+Fructose-bisphosphate aldolase B
+Glucose-dependent insulinotropic receptor
+Gamma-aminobutyric acid receptor subunit delta
+Cytidylate kinase
+Solute carrier family 2, facilitated glucose transporter member 1
+Serine/threonine-protein kinase Nek9
+Glutamate dehydrogenase
+Lethal factor
+Cytochrome P450
+Glucose-6-phosphate isomerase
+Hydroxyethylthiazole kinase
+Geranylgeranyl transferase type-2 subunit alpha
+Membrane-associated progesterone receptor component 1
+Serine hydroxymethyltransferase, cytosolic
+Envelope protein F13
+Penicillin-insensitive murein endopeptidase
+Receptor tyrosine-protein kinase erbB-4
+Toll-like receptor 2
+Toll-like receptor 7
+Glutamate receptor ionotropic, NMDA 2C
+Glutathione S-transferase A3
+Corticosteroid 11-beta-dehydrogenase isozyme 1
+Ornithine decarboxylase antizyme 1
+Chloroquine resistance transporter
+Nogalonic acid methyl ester cyclase
+Acylphosphatase-2
+Extracellular calcium-sensing receptor
+Mycocyclosin synthase
+Basement membrane-specific heparan sulfate proteoglycan core protein
+72 kDa type IV collagenase
+Thiamin pyrophosphokinase 1
+Dihydrofolate reductase, mitochondrial
+3-deoxy-manno-octulosonate cytidylyltransferase
+Phosphoribosylpyrophosphate synthetase
+Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic
+Peptidoglycan transpeptidase
+Ephrin type-B receptor 4
+L-fucose isomerase
+Pyruvate dehydrogenase E1 component subunit alpha, testis-specific form, mitochondrial
+Microtubule-associated protein 2
+Epithelial discoidin domain-containing receptor 1
+Scavenger receptor cysteine-rich type 1 protein M130
+Pyrimidine-nucleoside phosphorylase
+Serine/threonine-protein kinase DCLK3
+Interleukin-23
+Chlorocatechol 1,2-dioxygenase
+Alpha-pyrone synthesis polyketide synthase-like Pks18
+Aspartyl aminopeptidase
+Myeloid cell surface antigen CD33
+GDP-mannose 4,6-dehydratase
+Rho-associated protein kinase 1
+Glutamate (NMDA) receptor
+15-hydroxyprostaglandin dehydrogenase [NAD(+)]
+Autophagy-related protein 18, putative
+Interleukin-1 receptor-associated kinase 3
+Calsequestrin-1
+Voltage-dependent anion-selective channel protein 2
+NADPH-flavin oxidoreductase
+Pleckstrin homology domain-containing family A member 1
+Serpin B6
+Phenylalanine--tRNA ligase, mitochondrial
+Penicillin-binding protein 2
+Gamma-aminobutyric acid receptor subunit beta-2
+Chloride channel protein ClC-Ka
+Nitroreductases
+Ornithine aminotransferase
+Voltage-dependent N-type calcium channel
+Proteasome subunit beta type-7
+Multidrug resistance protein
+Mitogen-activated protein kinase kinase kinase 4
+Potassium
+Carboxyethylarginine synthase
+Beta-lactamase type II
+Secreted chorismate mutase
+DMD gene (exon 53 viltolarsen target site)
+Histone H1.4
+Alpha-aminoadipic semialdehyde dehydrogenase
+DAN domain family member 5
+Tubulin beta-1 chain
+Dihydrofolate reductase (dfrB)
+Multidrug resistance-associated protein 6
+Sialidase-1
+Polyubiquitin-B
+Peroxisomal bifunctional enzyme
+Heterochromatin protein 1-binding protein 3
+Serine/threonine-protein kinase TBK1
+Zinc-alpha-2-glycoprotein
+Tyrosine-protein kinase ZAP-70
+Glutamate racemase
+ATP-sensitive inward rectifier potassium channel 1
+Tyrosine-protein kinase CSK
+Complement C4-B
+Multidrug translocase MdfA
+Fibroblast growth factor receptor 4
+Copine-1
+ERO1-like protein beta
+o-succinylbenzoate synthase
+P-protein
+Bifunctional glutamate/proline--tRNA ligase
+Zyxin
+Probable aromatic acid decarboxylase
+Beta-phosphoglucomutase
+Uncharacterized serine/threonine-protein kinase SBK3
+Lysine-specific demethylase 5D
+Solute carrier organic anion transporter family member 2B1
+Galactose-1-phosphate uridylyltransferase
+DNA mismatch repair protein MutL
+Lipid binding protein
+Carbonic anhydrase 5B, mitochondrial
+Seprase
+Somatostatin receptor type 4
+Hypoxanthine-guanine phosphoribosyltransferase
+Beta-lactamase (blaSHV)
+Serine/threonine-protein kinase PLK3
+Transmembrane prolyl 4-hydroxylase
+Potassium voltage-gated channel subfamily A member 10
+Retinol dehydrogenase 8
+Glycine oxidase
+Complement component C8 gamma chain
+Apolipoprotein C-II
+Equilibrative nucleoside transporter 2
+Hepatocyte growth factor
+Transporter
+Inositol-trisphosphate 3-kinase A
+TRAF2 and NCK-interacting protein kinase
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform
+Free fatty acid receptor 1
+Calcipressin-1
+Long-chain-fatty-acid--CoA ligase ACSBG1
+8-oxo-dGTP diphosphatase
+Fibrillin-2
+Alanine-glyoxylate aminotransferase homolog
+Fibroblast growth factor 4
+Sialoadhesin
+Steroid hormone receptor ERR1
+Pyridoxamine kinase
+Myosin light chain kinase 3
+Serine hydroxymethyltransferase
+Steroid hormone receptor ERR2
+Probable ATP-dependent RNA helicase DDX5
+2-keto-3-deoxy-gluconate kinase
+Cytochrome b6-f complex subunit 8
+Probable rRNA methylase
+Pro-epidermal growth factor
+tRNA (cytosine(38)-C(5))-methyltransferase
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+Heterogeneous nuclear ribonucleoprotein H
+Leucine-rich repeat serine/threonine-protein kinase 2
+Phosphate acetyltransferase
+Neuronal acetylcholine receptor subunit alpha-9
+CDP-paratose 2-epimerase
+Orotate phosphoribosyltransferase
+Beta-lactamase (MIR-1)
+Molybdenum cofactor sulfurase
+Matrix metalloproteinase-26
+High-molecular-weight cytochrome c
+D-allose-binding periplasmic protein
+Tachykinin-3
+Probable cysteine--tRNA ligase, mitochondrial
+Cysteine desulfurase, mitochondrial
+Uridine phosphorylase
+C-reactive protein
+N-terminal kinase-like protein
+cAMP-dependent protein kinase catalytic subunit beta
+U1 small nuclear ribonucleoprotein A
+Transforming growth factor beta-3
+Pyruvate-flavodoxin oxidoreductase
+Prostaglandin E2 receptor EP2 subtype
+40S ribosomal protein SA
+Neuropeptide S receptor
+Heme oxygenase
+Penicillin-binding protein 2x
+Ras-related protein Rap-2a
+LgtC
+GTPase ObgE
+Bifunctional protein FolC
+Ig heavy chain V-III region CAM
+von Willebrand factor
+G protein-activated inward rectifier potassium channel 2
+Orange carotenoid-binding protein
+CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+Lipase EstA
+Sodium/Potassium Transporting ATPase subunits
+2,4-dienoyl-CoA reductase [NADPH]
+Sodium/potassium-transporting ATPase subunit alpha-3
+Bile acids
+Beta-lactamase class B VIM-2
+Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Protease 1
+Quinohemoprotein amine dehydrogenase subunit gamma
+30S ribosomal protein S14 type Z
+Beta-lactamase Toho-1
+1,3-beta-glucan synthase component FKS1
+Voltage-dependent T-type calcium channel subunit alpha-1H
+Dihydroorotate dehydrogenase A (fumarate)
+Serine/threonine-protein kinase pim-3
+Transient receptor potential cation channel subfamily V member 3
+Voltage-gated sodium channel alpha subunit
+Deoxycytidine kinase
+Secretin receptor
+Glycine N-acyltransferase
+Voltage-dependent L-type calcium channel subunit beta-3
+Serine/threonine-protein kinase MARK1
+Prolyl 3-hydroxylase 3
+Aminotransferase
+Ribonucleoside-diphosphate reductase subunit beta
+Ornithine carbamoyltransferase chain I
+Chitinase A
+Liver carboxylesterase 1
+GM-CSF receptor alpha subunit
+5-hydroxytryptamine receptor 4
+Transmembrane glycoprotein NMB
+Squalene monooxygenase
+50S ribosomal protein L16
+Sodium/bile acid cotransporter
+Dopamine D1 receptor
+Solute carrier family 12 member 5
+Fatty acid
+Serine/threonine-protein kinase PLK4
+ALAS1 mRNA
+Carbonic anhydrase 12
+P-type Ca2+-transporting ATPase
+Atrial natriuretic peptide receptor 2
+Biotin/lipoyl attachment protein
+Cobalt-precorrin-4 C(11)-methyltransferase
+Serine/threonine-protein kinase ATR
+HTH-type transcriptional regulator EthR
+Stabilin-2
+Low affinity immunoglobulin gamma Fc region receptor II-b
+AFG3-like protein 2
+Protein-tyrosine kinase 6
+mRNA of ApoB-100
+Plasma protease C1 inhibitor
+UDP-glucuronosyltransferase 1-1
+Afamin
+14-3-3 protein
+NADPH:ferredoxin reductase
+Coagulation factor XII
+Hexokinase-1
+Gamma-aminobutyric acid type B receptor subunit 1
+Serine/threonine-protein kinase SBK1
+Cytochrome c1, heme protein, mitochondrial
+4-trimethylaminobutyraldehyde dehydrogenase
+Low-density lipoprotein receptor
+3-mercaptopyruvate sulfurtransferase
+Protein kinase C iota type
+5-aminolevulinate synthase
+Splicing factor 3B subunit 3
+Calcitonin gene-related peptide 1
+Cytochrome P450 26C1
+50S ribosomal protein L22
+Kallikrein-7
+Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1
+Frataxin, mitochondrial
+Tubulin beta-2A chain
+3-oxoacyl-[acyl-carrier-protein] synthase 3
+Interferon beta
+Nitric oxide reductase
+Cysteine sulfinic acid decarboxylase
+2,3-diketo-L-gulonate reductase
+Succinate dehydrogenase hydrophobic membrane anchor subunit
+Glycogen
+Coagulation factor VII
+Acetylcholine receptor subunit alpha-type unc-38
+Pterin-4-alpha-carbinolamine dehydratase
+Light-harvesting protein B-800/820 alpha chain
+Platelet derived growth factor receptor alpha
+Protein cereblon
+Epidermal growth factor receptor
+Malonyl-CoA-acyl carrier protein transacylase, mitochondrial
+Tumor protein D54
+Transient receptor potential cation channel subfamily V member 2
+SDS hydrolase SdsA1
+Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)
+Transforming protein RhoA
+Fatty acid oxidation complex subunit alpha
+Glucose-1-phosphate thymidylyltransferase 2
+Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform
+Tryptophan 5-hydroxylase 2
+Mitogen-activated protein kinase kinase kinase 19
+Sigma receptor
+Methionine aminopeptidase 1
+ABC transporters
+Internal limiting membrane (ILM)
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3
+Fatty acid synthetase
+3-oxoacyl-[acyl-carrier-protein] synthase 1
+Hephaestin-like protein 1
+Heat shock protein HSP 90-alpha
+Stromal cell-derived factor 2
+Bile acid-CoA:amino acid N-acyltransferase
+Aminopeptidase N
+Stromelysin-2
+HTH-type transcriptional regulator QacR
+14-3-3 protein eta
+Plasminogen activator inhibitor 2
+Voltage-dependent calcium channel subunit alpha-2/delta-3
+Endoglucanase A
+Wee1-like protein kinase
+Protein kinase C alpha type
+Suppressor of tumorigenicity 14 protein
+Outer membrane porin C
+Gamma-enolase
+Serpin B5
+Ephrin type-B receptor 1
+Motilin receptor
+Tropomyosin alpha-1 chain
+Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1
+Lysine-specific histone demethylase 1A
+50S ribosomal protein L32
+C-C chemokine receptor type 2
+Sodium channel protein type 3 subunit alpha
+5-hydroxytryptamine receptor 1D
+C-C motif chemokine 2
+Kinesin-like protein KIF11
+Protein ERGIC-53
+Fibroblast growth factor 19
+Interleukin-4
+Pyruvate carboxylase
+Flavodoxin
+Monocyte differentiation antigen CD14
+Aminoglycoside N(6')-acetyltransferase type 1
+Disintegrin and metalloproteinase domain-containing protein 28
+Serine/threonine-protein kinase ICK
+Solute carrier family 22 member 5
+Acetylcholine receptor subunit beta-type lev-1
+Atypical kinase COQ8A, mitochondrial
+50S ribosomal protein L27
+Vitamin K-dependent gamma-carboxylase
+L-lactate dehydrogenase C chain
+D(2L) dopamine receptor
+3-oxoacyl-[acyl-carrier-protein] synthase 2
+Class B acid phosphatase
+1-pyrroline-5-carboxylate dehydrogenase
+6-phosphofructokinase
+Botulinum neurotoxin type D
+Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial
+ATP synthase subunit alpha, mitochondrial
+L-xylulose reductase
+Serine/threonine-protein kinase MST4
+Reaction center protein L chain
+60S ribosomal protein L35
+Glycine receptor subunit alpha-3
+Methylcrotonoyl-CoA carboxylase subunit alpha, mitochondrial
+Serine/threonine-protein kinase ULK3
+Cytochrome c oxidase subunit 5B, mitochondrial
+Alpha-glucosidase
+Glycosyltransferase GtfA
+V-type sodium ATPase subunit K
+AlgQ1
+Uridine phosphorylase 1
+Protein SCO1 homolog, mitochondrial
+Carbonic anhydrase 3
+Signal peptidase I
+CCA-adding enzyme
+6-oxocamphor hydrolase
+Adenylate kinase isoenzyme 1
+MKL/myocardin-like protein 1
+NF-kappa-B inhibitor alpha
+Integrin alpha-L
+5-hydroxytryptamine receptor 2A
+BAG family molecular chaperone regulator 1
+Myosin light chain kinase family member 4
+L-arabinose-binding periplasmic protein
+Protein kinase C
+Alpha-amylase 1
+Fe(3+)-binding periplasmic protein
+Carbamoyl-phosphate synthase [ammonia], mitochondrial
+Uracil-DNA glycosylase
+Neuronal acetylcholine receptor subunit alpha-2
+IgG receptor FcRn large subunit p51
+Soluble lytic murein transglycosylase
+Holliday junction ATP-dependent DNA helicase RuvB
+Cyclin-dependent kinases regulatory subunit 1
+U6 snRNA-associated Sm-like protein LSm6
+Porphobilinogen deaminase
+Succinyl-CoA ligase [GDP-forming] subunit beta, mitochondrial
+Gamma-aminobutyric acid receptor subunit rho-2
+NHP2-like protein 1
+Odorant binding protein
+Prothrombin
+Potassium-transporting ATPase subunit beta
+Amyloid beta A4 protein
+G-protein coupled estrogen receptor 1
+DNA polymerase epsilon catalytic subunit A
+NS3 protease
+Complement C5
+Heat shock cognate 71 kDa protein
+Isopentenyl-diphosphate Delta-isomerase 1
+Alpha-amylase G-6
+Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial
+Transmembrane protease serine 2
+Galectin-7
+PcrV
+Substance-K receptor
+Parathyroid hormone 2 receptor
+[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 3, mitochondrial
+Cytochrome P450 2C18
+Potassium voltage-gated channel subfamily B member 1
+Cycloinulo-oligosaccharide fructanotransferase
+Nicotinamide phosphoribosyltransferase
+Serine/arginine-rich splicing factor 1
+Apoptotic protease-activating factor 1
+Pyrroloquinoline-quinone synthase
+RET proto-oncogene
+Oxidoreductase, short chain dehydrogenase/reductase family
+Catabolite control protein A
+Rhoptry neck protein 3
+Survival motor neuron protein
+Cell division protein ZipA
+Mersacidin decarboxylase
+Isocitrate dehydrogenase [NADP]
+Nicotinamide mononucleotide adenylyltransferase 1
+Large neutral amino acids transporter small subunit 2
+Sialic acid-binding Ig-like lectin 7
+Voltage-dependent calcium channel subunit alpha-2/delta-1
+Neopullulanase 2
+Cytochrome P450 2C8
+Sn1-specific diacylglycerol lipase alpha
+Matrix metalloproteinase-25
+Delta-1-pyrroline-5-carboxylate synthase
+Gastrotropin
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform
+NS3/4A protein
+A/G-specific adenine glycosylase
+Serine/threonine-protein kinase Sgk3
+MAP kinase-activated protein kinase 5
+Versican core protein
+Elongation factor Tu-B
+Protein spire homolog 2
+Excitatory amino acid transporter 3
+Aconitate hydratase 2
+Ribonuclease H
+Cag alpha
+Far upstream element-binding protein 2
+6,7-dimethyl-8-ribityllumazine synthase
+ADP-ribosylation factor-like protein 1
+Polyubiquitin-C
+Methylisocitrate lyase
+Aralkylamine dehydrogenase heavy chain
+HLA-DR
+Enolase-phosphatase E1
+Plasma serine protease inhibitor
+Proteasome subunit beta type-9
+Adenylate cyclase type 2
+Carboxypeptidase A1
+Heat shock protein 90
+Interleukin-3 receptor subunit alpha
+D-3-phosphoglycerate dehydrogenase
+Sulfotransferase family cytosolic 1B member 1
+Esterase EstB
+Ribosomal protein S6 kinase alpha-1
+Kynurenine--oxoglutarate transaminase 3
+Telomerase-binding protein EST1A
+Protein-arginine deiminase type-4
+Putative ketoacyl reductase
+Deoxyhypusine synthase
+NAD(P)H dehydrogenase (quinone)
+Ribose 5-phosphate isomerase B
+Alanine racemase
+Translation elongation factor 1 alpha 1-like 14
+Histo-blood group ABO system transferase
+60S ribosomal protein L15
+Tyrosine-protein kinase Yes
+Afimbrial adhesin AFA-III
+Dihydroneopterin aldolase
+Hydroxycarboxylic acid receptor 2
+Solute carrier organic anion transporter family member 1B3
+Osmotically inducible protein C
+Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
+Carboxylesterase 2
+Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase
+Monocarboxylate transporter 3
+Mitochondrial ornithine transporter 2
+4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+C-terminal-binding protein 1
+H subunit of photosynthetic reaction center complex
+Proteinase inhibitor I4, serpin
+Peptidoglycan precursors
+Phospholipase A2
+Neuron-specific vesicular protein calcyon
+6-phosphogluconate dehydrogenase, decarboxylating
+Soluble cytochrome b562
+Dihydrolipoyl dehydrogenase
+Endoglin
+UDP-glucose 4-epimerase
+Glycogenin-1
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2
+Thyroid hormone receptor alpha
+cAMP-dependent protein kinase type II-alpha regulatory subunit
+Beta-adrenergic receptor kinase 1
+Glutamate receptor ionotropic, NMDA 2B
+Amylosucrase
+UDP-N-acetylhexosamine pyrophosphorylase
+Spermidine/putrescine-binding periplasmic protein
+N-carbamoyl-D-amino acid hydrolase
+Protein DJ-1
+Cystic fibrosis transmembrane conductance regulator
+Serine/threonine-protein kinase N1
+Glucosamine-6-phosphate deaminase 1
+Interferon alpha/beta receptor 2
+Cathepsin B
+Tetranectin
+Neutrophil elastase
+Virulence sensor histidine kinase PhoQ
+Cell division cycle protein 48 homologue,putative
+Solute carrier family 22 member 11
+Solute carrier family 22 member 6
+NAD-dependent protein deacetylase sirtuin-1
+Amine oxidase [flavin-containing] B
+Carbonic anhydrase-related protein 11
+Microtubule-associated serine/threonine-protein kinase 1
+3-keto-steroid reductase
+Chorismate synthase
+Tryptophan--tRNA ligase
+Pimelyl-[acyl-carrier protein] methyl ester esterase
+Adenosine deaminase
+Protocadherin-19
+Mitochondrial ornithine transporter 1
+Catechol 1,2-dioxygenase
+High affinity immunoglobulin epsilon receptor subunit alpha
+Lysozyme
+Oxygen-insensitive NAD(P)H nitroreductase
+Transcription factor AP-1
+5HT3 serotonin receptor
+Matrix metalloproteinase-27
+6,7-dimethyl-8-ribityllumazine synthase 2
+Glucose-1-phosphate thymidylyltransferase
+Truncated transposase
+Elongation factor Tu
+1-phosphatidylinositol phosphodiesterase
+UDP-glucuronosyltransferase 3A1
+Ferredoxin reductase
+2,3-dichloro-1-propanol dehalogenase
+Alkaline phosphatase, placental type
+Hydroxyacylglutathione hydrolase, mitochondrial
+Ribonuclease Z
+Free radicals
+Glycophorin-binding protein
+Protein S100-A4
+Casein kinase I isoform gamma-3
+Leukotriene B4 receptor 1
+Reaction center protein M chain
+Alpha-actinin-1
+Cytosine deaminase
+5-hydroxytryptamine receptor 2
+Interleukin-5
+Platelet glycoprotein IX
+Cytochrome c'
+Fatty acid synthase
+60S ribosomal protein L27
+Carboxypeptidase B2
+C5a anaphylatoxin chemotactic receptor 1
+3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Aldo-keto reductase family 1 member B10
+Clavaminate synthase 1
+Ubiquitin carboxyl-terminal hydrolase 14
+Coatomer alpha subunit, putative
+Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1
+Putative regulator of ribonuclease activity
+Calcitonin receptor
+Interleukin-6
+Isoleucine--tRNA ligase
+Putative mannose-6-phosphate isomerase YvyI
+Dihydropyrimidine dehydrogenase [NADP(+)]
+60S ribosomal protein L14
+Ferritin heavy chain
+Methylmalonic aciduria and homocystinuria type C protein
+Sigma non-opioid intracellular receptor 1
+Multidrug resistance-associated protein 1
+Calcium-binding mitochondrial carrier protein Aralar1
+Reverse transcriptase/RNaseH
+RAF proto-oncogene serine/threonine-protein kinase
+Matrilysin
+Amiloride-sensitive sodium channel subunit gamma
+Lipase 3
+Ribonucleoside-diphosphate reductase 2 subunit alpha
+High affinity cGMP-specific 3',5'-cyclic phosphodiesterase 9A
+Serine/threonine-protein kinase 17A
+Bacterial leucyl aminopeptidase
+Muscarinic acetylcholine receptor
+ADP/ATP translocase 1
+Signal recognition particle receptor FtsY
+Glutathione S-transferase A4
+Isopentenyl-diphosphate delta-isomerase
+Muscarinic acetylcholine receptor M1
+Serine/threonine-protein kinase PAK 1
+Subtilisin Carlsberg
+NADP-dependent malic enzyme, mitochondrial
+Protein S100-A13
+Glutamate receptor 2
+Succinate receptor 1
+Solute carrier family 22 member 4
+Threonine-phosphate decarboxylase
+NADPH--cytochrome P450 reductase
+Beta-hexosaminidase
+[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 2, mitochondrial
+Cytosolic leucyl-tRNA synthetase
+Thymidylate synthase
+Potassium voltage-gated channel subfamily B member 2
+C-type lectin domain family 4 member E
+Malonamidase E2
+Putative uncharacterized protein tcp14
+Cytochrome c oxidase subunit 6C
+3-hydroxyisobutyryl-CoA hydrolase, mitochondrial
+Succinate dehydrogenase flavoprotein subunit
+Low affinity immunoglobulin gamma Fc region receptor III-B
+Potassium voltage-gated channel subfamily KQT member 1
+Aspartyl/asparaginyl beta-hydroxylase
+Insulin-like growth factor I
+Mevalonate kinase
+Elongation factor 2
+Rhamnulose-1-phosphate aldolase
+Serine/threonine-protein kinase LATS1
+Splicing factor 3A subunit 3
+Corticotropin-releasing factor receptor 1
+Carbonic anhydrase 5A, mitochondrial
+Cyclin-dependent kinase 17
+Protein-arginine deiminase type-1
+B2 bradykinin receptor
+Phosphoprotein
+Far upstream element-binding protein 1
+26S protease regulatory subunit 6A
+40S ribosomal protein S2
+HAP protein
+Choline-phosphate cytidylyltransferase B
+Arginine/agmatine antiporter
+ATP sulfurylase (Sulfate adenylyltransferase)
+Retinoic acid receptor RXR-alpha
+Prostacyclin synthase
+Metallo-beta-lactamase type 2
+Methylamine dehydrogenase heavy chain
+Thioredoxin
+Hexokinase
+Calcium/calmodulin-dependent protein kinase kinase 1
+Arylsulfatase
+Aurora kinase C
+Phosphate-binding protein PstS
+Excretory Secretory (ES) proteins
+Neprilysin
+FMN-binding protein
+Shiga-like toxin 1 subunit B
+Lactaldehyde dehydrogenase
+Actin-related protein 2/3 complex subunit 4
+Conserved Plasmodium membrane protein
+Macrophage-stimulating protein receptor
+2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase
+Protein NrdI
+2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2
+Inward rectifier potassium channel 2
+Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial
+Nucleophosmin
+Steroid 21-hydroxylase
+Adenylate kinase 8
+Dual adapter for phosphotyrosine and 3-phosphotyrosine and 3-phosphoinositide
+Endothelin B receptor
+4-hydroxy-tetrahydrodipicolinate reductase
+Peroxiredoxin-6
+MAP kinase-interacting serine/threonine-protein kinase 1
+Cruzipain
+Ras-related protein Ral-A
+Nuclear receptor subfamily 0 group B member 1
+Gamma-aminobutyric acid type B receptor subunit 2
+Magnesium cation
+Anti-sigma F factor antagonist
+LIM domain kinase 2
+Tripartite terminase subunit 1
+Interleukin-11 receptor subunit alpha
+Retinoic acid receptor RXR
+Cadmium
+(5R)-carbapenem-3-carboxylate synthase
+T-lymphocyte activation antigen CD80
+Pyruvate kinase PKM
+Methylmalonyl-CoA carboxyltransferase 5S subunit
+O-succinylbenzoate-CoA synthase
+Lys-63-specific deubiquitinase BRCC36
+DNA polymerase epsilon subunit 3
+Cysteine desulfurase
+Bifunctional adenosylcobalamin biosynthesis protein CobU
+Glutaminase 1
+Serine/threonine-protein kinase PknB
+Matrix Gla protein
+Ras-related C3 botulinum toxin substrate 1
+Acetylcholine receptor subunit beta-type unc-29
+Outer membrane protein X
+G-protein coupled receptor 35
+Probable ribosome biogenesis protein RLP24
+Cytochrome P450 26A1
+Prolyl endopeptidase
+T-cell surface glycoprotein CD4
+Isoleucine--tRNA ligase, mitochondrial
+CD9 antigen
+Probable lignin peroxidase LipJ
+P-glycoprotein 1
+Glioma pathogenesis-related protein 1
+Mitogen-activated protein kinase 11
+Heat shock 70 kDa protein 4
+14 kDa fatty acid-binding protein
+Lymphocyte antigen 96
+Histidinol dehydrogenase
+Serine/threonine-protein kinase PAK 5
+Prolyl 3-hydroxylase 1
+Ig lambda chain V-II region MGC
+Haloalkane dehalogenase
+5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+Trypsin-3
+Metallothionein-1A
+Hypothetical cytosolic protein
+NADH peroxidase
+Proline dehydrogenase 1, mitochondrial
+Kallistatin
+YopE regulator
+Cytochrome P450 1B1
+Potassium voltage-gated channel subfamily KQT member 2
+Streptogramin A acetyltransferase
+HBsAg
+Muscarinic acetylcholine receptor M3
+B-lymphocytes
+Axin-1
+Non-fluorescent flavoprotein
+Serine/threonine-protein kinase TNNI3K
+Serine/threonine-protein kinase SIK3
+Ecotin
+Calcium/calmodulin-dependent protein kinase type 1G
+Prostaglandin E2 receptor EP4 subtype
+Dihydroorotase
+DNA nucleotidylexotransferase
+Pentaglycyl bridging segment
+Aminoglycoside 2'-N-acetyltransferase
+Head decoration protein
+DNA polymerase III subunit beta
+Toll-like receptor 9
+Copper-containing nitrite reductase
+Nodal modulator 1
+Heat shock protein 105 kDa
+Glutamate receptor ionotropic, NMDA 2A
+Alpha-2C adrenergic receptor
+Histamine H1 receptor
+2-oxopropyl-CoM reductase, carboxylating
+Natural resistance-associated macrophage protein 2
+Heat shock protein 110, putative
+Acyl-CoA hydrolase
+Delta-type opioid receptor
+D-alanine aminotransferase
+Benzoylformate decarboxylase
+Phosphoethanolamine N-methyltransferase
+CAD protein
+Envelope glycoprotein GP340
+Uncharacterized protein PA1000
+Carbonic anhydrase 14
+Phospholipid hydroperoxide glutathione peroxidase, mitochondrial
+Protocatechuate 3,4-dioxygenase beta chain
+Potassium voltage-gated channel subfamily A member 7
+Stromal cell-derived factor 1
+Hepatic peroxysomal alanine:glyoxylate aminotransferase
+Syndecan-2
+Peptidyl-prolyl cis-trans isomerase C
+Synapsin-1
+Tryptophan--tRNA ligase 2
+Lymphoid enhancer-binding factor 1
+Aldehyde dehydrogenase, dimeric NADP-preferring
+Beta-adrenergic receptor kinase 2
+Mitogen-activated Protein Kinases
+Aldose 1-epimerase
+Fumarylacetoacetase
+Transthyretin
+Penicillin-binding protein 1C
+UDP-glucose 6-dehydrogenase
+3-dehydroquinate synthase
+Death-associated protein kinase 1
+Glutamate-1-semialdehyde 2,1-aminomutase
+Peroxiredoxin-2
+3-hydroxyisobutyrate dehydrogenase, mitochondrial
+Tetanus toxin
+Adenosine triphosphate (ATP)
+Group A nerve fibers
+RuvB-like 2
+Uteroglobin
+Cyclin-dependent kinase-like 2
+tRNA dimethylallyltransferase
+Thrombomodulin
+Acyl carrier protein
+Somatostatin receptor type 3
+Galectin-1
+Macrophage colony-stimulating factor 1 receptor
+Methionine synthase reductase
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+ADP-ribose pyrophosphatase, mitochondrial
+Ephrin type-A receptor 2
+Insulin-like growth factor 1 receptor
+Fe(3+)-pyochelin receptor
+Diacylglycerol kinase delta
+Uroporphyrinogen decarboxylase
+Oxytocin receptor
+Receptor activity-modifying protein 2
+Transcriptional activator protein TraR
+Myoglobin
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6
+Protozoal DNA
+Phosphatidylcholine transfer protein
+SLAM family member 7
+Insulin
+Apocytochrome f
+Probable G-protein coupled receptor 133
+Voltage-dependent calcium channel
+Nuclear receptor subfamily 1 group D member 2
+L-lactate dehydrogenase A-like 6B
+Calpain-1 catalytic subunit
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1
+P2 Purinoceptors
+Pigment epithelium-derived factor
+Matrix metalloproteinase-20
+Voltage-dependent anion-selective channel protein 1
+60S ribosomal protein L17, putative
+Protein-glutamine gamma-glutamyltransferase E
+Retinoic acid receptor beta
+Pur operon repressor
+Arginine deiminase
+Aspartate carbamoyltransferase
+Probable arabinosyltransferase B
+Lithostathine-1-alpha
+Farnesyl diphosphate synthase
+Nitric oxide synthase oxygenase
+Solute carrier family 12 member 4
+60S ribosomal protein L13a
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Neurexin-1
+Pyruvate carboxylase, mitochondrial
+Sulfotransferase 1A1
+Voltage-dependent T-type calcium channel subunit alpha-1G
+Fumarate reductase iron-sulfur subunit
+Endo-1,4-beta-xylanase Y
+Peroxisome proliferator-activated receptor gamma
+Adrenocorticotropic hormone receptor
+Endoglucanase
+dTDP-4-dehydrorhamnose 3,5-epimerase
+Eukaryotic peptide chain release factor GTP-binding subunit ERF3A
+High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A
+Triosephosphate isomerase, glycosomal
+Lactase-phlorizin hydrolase
+Enoyl-CoA hydratase, mitochondrial
+Organic hydroperoxide resistance protein
+Proteasome subunit beta type-10
+UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+Histone deacetylase 4
+Retinoid-inducible serine carboxypeptidase
+Uridine 5'-monophosphate synthase
+Acetylcholinesterase
+Cytochrome P450 3A Subfamily
+Cytochrome P450 2C19
+Sugar phosphatase YbiV
+HTH-type transcriptional regulator TtgR
+Nucleotide-binding oligomerization domain-containing protein 2
+Mannan endo-1,4-beta-mannosidase
+Annexin A5
+Phosphatidylethanolamine-binding protein 1
+Hyaluronan mediated motility receptor
+Maltogenic alpha-amylase
+Ig kappa chain V-II region TEW
+PhzG
+Phosphatidylinositol 4-kinase type 2-beta
+Alpha-synuclein
+Cytochrome c
+Gamma-secretase subunit PEN-2
+Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+Estrogen sulfotransferase
+Neutrophil gelatinase-associated lipocalin
+Triosephosphate isomerase
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform
+CD276 antigen
+Mitogen-activated protein kinase 13
+Alpha-N-acetylglucosaminidase
+Peroxisomal sarcosine oxidase
+(S)-2-haloacid dehalogenase
+Carbonic anhydrase 2
+Beclin-1
+Purine nucleotide phosphorylase, putative
+Splicing factor 3B subunit 1
+Programmed cell death 1 ligand 1
+Mitogen-activated protein kinase kinase kinase kinase 2
+ADP-ribosylation factor-like protein 3
+Class D OXA-48 carbapenemase
+Glutamate receptor 1
+Coagulation factor VIII
+Glutamate receptor ionotropic, NMDA 3B
+Protein S100-P
+Protein kinase C delta type
+Isoleucine--tRNA ligase, putative
+30S ribosomal protein S2
+60S ribosomal protein L24, putative
+Retinol dehydrogenase 14
+Phospho-2-dehydro-3-deoxyheptonate aldolase
+Laminin subunit alpha-5
+Oxalate decarboxylase OxdC
+Protein-arginine deiminase type-2
+GMP synthase [glutamine-hydrolyzing]
+Valacyclovir hydrolase
+Endo-1,4-beta-xylanase Z
+Sex hormone-binding globulin
+Acetyl-coenzyme A synthetase
+Platelet-activating factor acetylhydrolase IB subunit gamma
+4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+Carboxymethylenebutenolidase
+Eukaryotic translation initiation factor 6
+Cytochrome P450 51
+NAD-dependent protein deacetylase sirtuin-2
+ADP-ribose pyrophosphatase
+DNA topoisomerase 1
+BCR/ABL p210 fusion protein
+Voltage-dependent L-type calcium channel subunit alpha-1F
+Acetylcholine receptor subunit alpha-type unc-63
+7-alpha-hydroxysteroid dehydrogenase
+N-acylamino acid racemase
+AtpH
+Sodium channel protein type 8 subunit alpha
+Hyaluronic acid
+4-hydroxy-tetrahydrodipicolinate synthase
+Keratin, type I cytoskeletal 14
+Protein-tyrosine-phosphatase
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial
+Ribonuclease PH
+Unconventional myosin-Ie
+Mitogen-activated protein kinase 1
+Isobutyryl-CoA dehydrogenase, mitochondrial
+Peripheral plasma membrane protein CASK
+Light-harvesting protein B-800/850 alpha chain
+Sphingosine 1-phosphate receptor 1
+Cytochrome c oxidase subunit 8A, mitochondrial
+Transient receptor potential cation channel subfamily V member 1
+P2Y purinoceptor 11
+30S ribosomal protein S18
+Interleukin-1 receptor antagonist protein
+Small conductance calcium-activated potassium channel protein 1
+Epithelial cell adhesion molecule
+60S ribosomal protein L30e, putative
+C-type lectin domain family 14 member A
+Trafficking protein particle complex subunit 3
+Neuromedin-K receptor
+Platelet-derived growth factor subunit B
+Ig alpha-1 chain C region
+Phosphoribosylglycinamide formyltransferase
+Proliferating cell nuclear antigen
+Neutrophil collagenase
+Tyrosine-protein kinase BTK
+T-cell receptor alpha chain C region
+Histone deacetylase 9
+Carbonic anhydrase 1
+N utilization substance protein B homolog
+Endoglucanase G
+Dihydropteroate synthase
+Hypoxanthine-guanine-xanthine phosphoribosyltransferase
+Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Glutathione S-transferase Mu 5
+1-aminocyclopropane-1-carboxylate deaminase
+60S ribosomal protein L10-like
+Alkyl hydroperoxide reductase subunit F
+Dihydropyrimidinase-related protein 2
+T-cell surface glycoprotein CD3 gamma chain
+Activated CDC42 kinase 1
+Creatine kinase S-type, mitochondrial
+30S ribosomal protein S17
+Rabies Virus Proteins
+High affinity immunoglobulin epsilon receptor subunit beta
+Sodium- and chloride-dependent creatine transporter 1
+Cytochrome c-552
+Transient receptor potential cation channel subfamily M member 4
+Phosphonoacetaldehyde hydrolase
+Folate receptor alpha
+DUTPase
+Probable transcriptional repressor TraM
+Microbial proteins
+Cytochrome P450 11B1, mitochondrial
+HLA class I histocompatibility antigen, A-2 alpha chain
+Ribonuclease
+30S ribosomal protein S7
+V-type proton ATPase subunit B, brain isoform
+Myosin light chain 6B
+Interferon alpha/beta receptor 1
+TetR family transcriptional repressor LfrR
+Malate dehydrogenase, cytoplasmic
+Potassium voltage-gated channel subfamily C member 2
+N-acetylglutamate synthase, mitochondrial
+Long-chain-fatty-acid--CoA ligase 1
+Probable phospholipid-transporting ATPase IA
+Phospholipase A2, membrane associated
+PBP3
+Neuropilin-2
+cAMP-dependent protein kinase type I-alpha regulatory subunit
+Ribosomal small subunit pseudouridine synthase A
+Subtilisin Savinase
+Translocator protein
+Sodium-coupled neutral amino acid transporters
+Beta-enolase
+Cytochrome P450 26B1
+Long-chain fatty acid transport protein
+Free fatty acid receptor 4
+Pyruvate dehydrogenase E1 component
+Probable cysteine desulfurase
+Histone deacetylase 3
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6
+Multifunctional protein ADE2
+Arachidonate 5-lipoxygenase
+Gamma-aminobutyric acid receptor subunit gamma-2
+Penicillin binding protein
+Protein S100-A2
+Peptidyl-prolyl cis-trans isomerase H
+G protein-activated inward rectifier potassium channel 4
+Interferon gamma receptor 2
+3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase
+Proto-oncogene tyrosine-protein kinase receptor Ret
+Nociceptin receptor
+Tubulin beta-6 chain
+Macrophage erythroblast attacher
+Immunoglobulin lambda variable 3-21
+Retinol-binding protein 1
+Parasite-infected erythrocyte surface protein
+Nectin-4
+Synaptic vesicular amine transporter
+Adenine phosphoribosyltransferase
+Inorganic pyrophosphatase
+Aromatic-amino-acid aminotransferase
+Tissue factor
+FMN-dependent NADPH-azoreductase
+Putative uncharacterized protein
+Mitogen-activated protein kinase kinase kinase 11
+Extended-spectrum beta-lactamase PER-1
+Alpha-aminoadipic semialdehyde synthase, mitochondrial
+PPH
+14-3-3 protein epsilon
+Sodium-coupled neutral amino acid transporter 3
+Prostasin
+DMD-001 gene (exon 51 target site)
+Monomeric sarcosine oxidase
+Ferripyoverdine receptor
+Creatine kinase B-type
+Fatty acid metabolism regulator protein
+Cytochrome P450 4A11
+Bacterial cell wall peptide bridging segments
+Phenylalanine--tRNA ligase beta subunit
+Complement component C8 alpha chain
+5-hydroxytryptamine receptor 1F
+Aac(6')-Ii protein
+N-(5'-phosphoribosyl)anthranilate isomerase
+Aspartate aminotransferase, cytoplasmic
+4-aminobutyrate aminotransferase, mitochondrial
+Glyceraldehyde-3-phosphate dehydrogenase A
+Nicotinate-nucleotide adenylyltransferase
+Esterase EstA
+Delta-hemolysin
+Putative sugar kinase
+Glutamic acid decarboxylase
+Serine/threonine-protein kinase Chk1
+Trafficking protein particle complex subunit 6A
+Bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolase, mitochondrial
+Interstitial collagenase
+Citron Rho-interacting kinase
+Ribose-5-phosphate isomerase A
+cAMP-specific 3',5'-cyclic phosphodiesterase 4A
+Branched-chain-amino-acid aminotransferase, cytosolic
+D-Amino acid amidase
+Taste receptor type 1 member 3
+5-hydroxytryptamine receptor 2C
+Nischarin
+Apolipoprotein B-100
+Intermediate conductance calcium-activated potassium channel protein 4
+PpcA
+Collagen alpha-1(II) chain
+NPQTN specific sortase B
+Folate receptor gamma
+A disintegrin and metalloproteinase with thrombospondin motifs 5
+Hypothetical conserved protein
+Potassium voltage-gated channel subfamily H member 2
+Matrix metalloproteinase-17
+Hydroxyquinol 1,2-dioxygenase
+Oxygen-insensitive NADPH nitroreductase
+Thyroxine 5-deiodinase
+Phosphodiesterase 2A, cGMP-stimulated
+Myosin-IIIa
+Chitinase
+TbuX
+Mitogen-activated protein kinase kinase kinase 15
+Tyrosine-protein kinase TXK
+Guanyl-specific ribonuclease Sa
+cAMP-activated global transcriptional regulator CRP
+Myosin-7
+ATP-sensitive inward rectifier potassium channel 11
+Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2
+Nuclear factor NF-kappa-B complex
+Matrix metalloproteinase-19
+Threonine--tRNA ligase
+Glycine receptors
+ATP-binding cassette sub-family C member 8
+Nucleoside diphosphate kinase B
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial
+Spectrin beta chain, non-erythrocytic 1
+Formate dehydrogenase, nitrate-inducible, cytochrome b556(fdn) subunit
+Estradiol 17-beta-dehydrogenase 1
+Candidapepsin-2
+Cytochrome c-L
+Calcium-activated potassium channel subunit beta-2
+Ribonucleoside-diphosphate reductase subunit M2 B
+Uridine-cytidine kinase 2
+Beta-secretase 1
+Ferredoxin CarAc
+Serine/threonine-protein kinase 38
+GMP reductase 1
+Interleukin-8
+Glycine receptor (alpha-1/beta)
+Thrombopoietin receptor
+Tryptophan biosynthesis protein TrpCF
+B-cell receptor CD22
+Glutathione reductase
+Death-associated protein kinase 3
+Elongation factor 1-gamma, putative
+Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform
+Gamma-aminobutyric acid receptor subunit alpha-3
+DNA polymerase alpha subunit B
+Gonadotropin-releasing hormone receptor
+Prostaglandin-H2 D-isomerase
+Glial cell line-derived neurotrophic factor
+78 kDa glucose-regulated protein
+Protein TonB
+60S ribosomal protein L10, putative
+Fatty acid-binding protein, brain
+Neuropeptide Y receptor type 2
+Autoinducer 2-binding protein LsrB
+Alanine--glyoxylate aminotransferase 2, mitochondrial
+Biotin biosynthesis cytochrome P450
+Dual specificity testis-specific protein kinase 1
+Ubiquitin carboxyl-terminal hydrolase isozyme L1
+Peflin
+Dr hemagglutinin structural subunit
+Glutaminase-asparaginase
+Alpha-lactalbumin
+Pantothenate synthetase
+Hemagglutinin
+Manganese cation
+Tyrosine-protein kinase Fes/Fps
+Glutamine synthetase 1
+Listeriolysin regulatory protein
+Carboxypeptidase Q
+Lactosylceramide alpha-2,3-sialyltransferase
+30S ribosomal protein
+Spermidine synthase
+Proline synthase co-transcribed bacterial homolog protein
+Levansucrase
+Gap junction alpha-1 protein
+Nucleoside transporter 2
+Penicillin acylase
+Sulfide dehydrogenase
+Inosine triphosphate pyrophosphatase
+Cytochrome c-551
+Porin P
+Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+Cathepsin S
+Alpha adrenergic receptor
+Farnesyl pyrophosphate synthase
+Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+Bis(5'-adenosyl)-triphosphatase
+Class B carbapenemase VIM-2
+Propionyl-CoA carboxylase beta chain, mitochondrial
+Adenosine kinase
+Iota-carrageenase
+Proteinase-activated receptor 4
+Guanine nucleotide-binding protein G(s) subunit alpha isoforms short
+Calpain-3
+Solute carrier family 12 member 2
+Calcium-dependent protein kinase 1
+Tyrosine--tRNA ligase
+Thyroid hormone receptor
+Hydroxymethylglutaryl-CoA synthase, cytoplasmic
+Cell division protein ZipA homolog
+Hepatocyte growth factor-regulated tyrosine kinase substrate
+Decaprenyl diphosphate synthase
+Tubulin alpha-3C/D chain
+Type II inositol 1,4,5-trisphosphate 5-phosphatase
+Group IID secretory phospholipase A2
+Hepatocyte nuclear factor 4-alpha
+Tumor necrosis factor receptor superfamily member 9
+2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+Maltose-binding periplasmic protein
+Xylose isomerase
+Retinoic acid-induced protein 3
+Arylsulfate sulfotransferase
+Arsenical pump-driving ATPase
+Calcium/calmodulin-dependent protein kinase type IV
+2-deoxyglucose-6-phosphate phosphatase
+Synaptosomal-associated protein 25
+Proteasome subunit alpha type-1
+Protein kinase C gamma type (PRKCG)
+Dihydropteroate synthetase
+Potassium voltage-gated channel subfamily H member 1
+Interleukin-5 receptor subunit alpha
+Peroxisomal multifunctional enzyme type 2
+Penicillin-binding protein 2a
+Glutathione
+Ribonucleoside-diphosphate reductase large subunit
+Cadherin-5
+Proton-coupled amino acid transporter 1
+Complement C1q subcomponent subunit B
+Alpha-hemoglobin-stabilizing protein
+Ferrochelatase
+Sulfite reductase [NADPH] flavoprotein alpha-component
+Methylenetetrahydrofolate reductase
+Putative FAD-monooxygenase
+High molecular weight rhoptry protein 2
+60S ribosomal protein L2
+Botulinum neurotoxin type C1
+3-ketoacyl-CoA thiolase, mitochondrial
+Glutathione S-transferases (Cytosolic)
+Mature parasite-infected erythrocyte surface antigen
+RNA 3'-terminal phosphate cyclase
+Exoglucanase/xylanase
+Endothelial PAS domain-containing protein 1
+1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Cathepsin L1
+Metabotropic glutamate receptor 7
+NADH-cytochrome b5 reductase 3
+V-ATPase Subunits
+Nitrous-oxide reductase
+Glucosamine-6-phosphate deaminase
+Galectin-2
+NADH-ubiquinone oxidoreductase chain 4
+SEC14-like protein 3
+DNA topoisomerase 4 subunit B
+Collagen alpha-1(I) chain
+Histone-lysine N-methyltransferase SETD7
+5-phosphohydroxy-L-lysine phospho-lyase
+Protein farnesyltransferase subunit beta
+Dual specificity tyrosine-phosphorylation-regulated kinase 1A
+Nucleoside-specific channel-forming protein tsx
+Deoxyuridine triphosphatase
+Probable L-ascorbate-6-phosphate lactonase UlaG
+Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A
+Ergosterol
+Ketimine reductase mu-crystallin
+Prostatic acid phosphatase
+Cholera enterotoxin B subunit
+Neuronal Acetylcholine (nACh) Receptor Subunits
+Disintegrin and metalloproteinase domain-containing protein 17
+Alpha-1A adrenergic receptor
+Mitogen-activated protein kinase 14
+D-alanyl-D-alanine endopeptidase
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+Dipeptidyl peptidase 4
+Cytochrome P450 2D6
+Iron binding protein FbpA
+Platelet glycoprotein Ib alpha chain
+Colicin I receptor
+D-alanyl-D-alanine carboxypeptidase DacA
+Guanine nucleotide-binding protein G(I)/G(S)/G(O) subunit gamma-2
+Serum albumin
+Endothelial protein C receptor
+Allantoate amidohydrolase
+Mitogen-activated protein kinase 4
+Receptor-interacting serine/threonine-protein kinase 4
+Diphthine synthase
+Hepatocyte nuclear factor 1-alpha
+40S ribosomal protein S17
+Mast/stem cell growth factor receptor Kit
+Respiratory nitrate reductase 1 beta chain
+Neurotensin receptor type 2
+Monocarboxylate transporter 6
+Acetyl-CoA carboxylase 2
+60S ribosomal protein L14, putative
+Phosphoglycerate kinase 1
+Huntingtin
+Low affinity immunoglobulin epsilon Fc receptor
+Calreticulin
+Histone deacetylase 10
+Beta-lactamase Ohio-1
+ATP synthase subunit c, sodium ion specific
+Glutamate receptor 3
+Protein S100-A6
+Phosphoheptose isomerase
+DNA-(apurinic or apyrimidinic site) lyase
+30 kDa immediate-early protein 2
+Hyaluronan
+Cyclin-dependent kinase 9
+DNA polymerase III subunit epsilon
+Tyrosine-protein kinase Srms
+Cyclomaltodextrin glucanotransferase
+Nuclear receptor ROR-beta
+Outer membrane protein W
+Formate acetyltransferase 1
+NAPQI (N-acetyl-p-benzoquinone imine)
+Coenzyme A biosynthesis bifunctional protein CoaBC
+Complement component C9
+Glycosyltransferase GtfD
+Actin-related protein 2/3 complex subunit 3
+Serine/threonine-protein kinase DCLK1
+Glutaconyl-CoA decarboxylase subunit alpha
+DNA adenine methylase
+33 kDa chaperonin
+Trifunctional purine biosynthetic protein adenosine-3
+DNA repair protein RAD51 homolog 1
+Rho-associated protein kinase 2
+Apolipoprotein B receptor
+Interleukin-2 receptor subunit alpha
+Outer membrane protein G
+Aconitate hydratase, mitochondrial
+Programmed cell death protein 6
+Neocarzinostatin
+Peptide deformylase 1
+RNA-directed RNA polymerase L
+Prostate-specific antigen
+Delta-aminolevulinic acid dehydratase
+Uric acid degradation bifunctional protein
+Protoporphyrinogen oxidase
+Tyrosine-protein kinase JAK3
+Intracellular hyaluronan-binding protein 4
+D-alanyl-D-alanine carboxypeptidase
+Tumor necrosis factor receptor superfamily member 5
+Tryptase alpha/beta-1
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
+Lumican
+Plasma membrane calcium-transporting ATPase
+Cysteine and glycine-rich protein 1
+Histone deacetylase 1
+Citrate synthase
+Heterogeneous nuclear ribonucleoprotein K
+NH(3)-dependent NAD(+) synthetase
+Tyrosine aminotransferase
+Endoglucanase E1
+Platelet-derived growth factor D
+rRNA adenine N-6-methyltransferase
+Troponin C, slow skeletal and cardiac muscles
+Putative aminooxidase
+Thioredoxin reductase 2, mitochondrial
+Mitochondrial peptide methionine sulfoxide reductase
+Cyclopropane mycolic acid synthase 2
+Ig kappa chain C region
+Sialidase
+Angiotensin-converting enzyme
+Myosin regulatory light chain 12A
+14-3-3 protein zeta/delta
+Eosinophil peroxidase
+Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+Inhibitor of nuclear factor kappa-B kinase subunit beta
+NADH-cytochrome b5 reductase 1
+Tumor necrosis factor-inducible gene 6 protein
+Coagulation factor XI
+Sulfonylurea receptor 1, Kir6.2
+Pseudolysin
+Peptidyl-prolyl cis-trans isomerase B
+Lethal(3)malignant brain tumor-like protein 1
+Mediator of RNA polymerase II transcription subunit 1
+Gamma-secretase subunit APH-1A
+Lipoprotein lipase
+Receptor protein-tyrosine kinase
+Ribonuclease 4
+Elongation of very long chain fatty acids protein 4
+Calcium/calmodulin-dependent protein kinase type 1
+[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 4, mitochondrial
+Orexin receptor type 1
+60S ribosomal protein L19
+Fusion glycoprotein F0
+Gag-Pro-Pol polyprotein
+Homeodomain-interacting protein kinase 2
+Non-SERCA-type Ca2+-transporting P-ATPase
+Multidrug resistance protein MdtK
+Enoyl-[acyl-carrier-protein] reductase [NADH]
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial
+L-lactate dehydrogenase
+Regulatory protein BlaR1
+NAD(P) transhydrogenase, mitochondrial
+5-methyltetrahydrofolate S-homocysteine methyltransferase
+Unsaturated glucuronyl hydrolase
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1
+Cytochrome c oxidase subunit 1
+Carcinoembryonic antigen-related cell adhesion molecule 1
+UMP-CMP kinase
+Aluminum
+Ammonia channel
+Pyridoxal phosphate phosphatase
+Bacilysin biosynthesis protein BacB
+Recoverin
+Heterogeneous nuclear ribonucleoprotein L
+Translationally-controlled tumor protein
+D-alanine--D-alanine ligase
+Outer membrane protein TolC
+Estradiol 17-beta-dehydrogenase 11
+UDP-galactose 4-epimerase
+Metabotropic glutamate receptor 5
+Beta-lactamase SHV-1
+Beta-lactamase CTX-M
+Immunoglobulin G-binding protein G
+Laminin subunit beta-1
+Poly [ADP-ribose] polymerase 3
+Calcitonin gene-related peptide type 1 receptor
+Serine/threonine-protein kinase tousled-like 1
+Glutaredoxin-2, mitochondrial
+Catenin beta-1
+5'(3')-deoxyribonucleotidase, mitochondrial
+Receptor tyrosine-protein kinase erbB-2
+Alpha-1D adrenergic receptor
+N-arachidonyl glycine receptor
+DNA-directed RNA polymerase subunit beta'
+4-hydroxymandelate synthase
+NADH-ubiquinone oxidoreductase chain 5
+Alpha-2 adrenergic receptors
+D-alanine--D-alanine ligase A
+Xanthine phosphoribosyltransferase
+30S ribosomal protein S5
+Cyclin-dependent kinase-like 1
+Hematopoietic stem cells
+Oxidoreductase
+DNA (cytosine-5)-methyltransferase 3B
+Pyrophosphate
+Non-receptor tyrosine-protein kinase TNK1
+40S ribosomal protein S9
+Adenosine receptor A3
+Peroxiredoxin-5, mitochondrial
+Tyrosine-protein kinase transforming protein Src
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase
+Trans-2-enoyl-ACP reductase II
+Fibrillin-3
+Heterogeneous nuclear ribonucleoprotein H3
+Flavodoxin-1
+Thyroid hormone receptor, alpha isoform 1 variant
+mRNA interferase EndoA
+NEDD8-activating enzyme E1 regulatory subunit
+Hydroxymycolate synthase MmaA4
+Serine/threonine-protein kinase 38-like
+Pseudoazurin
+Synaptic vesicle glycoprotein 2A
+Disintegrin and metalloproteinase domain-containing protein 9
+SEC14-like protein 4
+Histone-lysine N-methyltransferase EZH1
+PI-PLC X domain-containing protein 3
+Glycylpeptide N-tetradecanoyltransferase
+5-hydroxytryptamine receptor 1E
+Beta-lactamase SHV-2
+Reverse transcriptase
+Cholecystokinin
+Aminoglycoside 3'-phosphotransferase
+Vascular endothelial growth factor B
+Group IIE secretory phospholipase A2
+4-hydroxybenzoyl-CoA thioesterase
+Tyrosine-protein kinase HCK
+Gamma-glutamylaminecyclotransferase
+Histidine decarboxylase
+Keratin, type I cytoskeletal 16
+Nicotinamide mononucleotide adenylyltransferase 3
+Bacterioferritin comigratory protein
+Laminin subunit alpha-3
+Reaction center protein H chain
+S-ribosylhomocysteine lyase
+Anamorsin homolog
+Serine/threonine-protein kinase 36
+Mitogen-activated protein kinase kinase kinase 10
+3-methyl-2-oxobutanoate hydroxymethyltransferase
+Pregnancy-specific beta-1-glycoprotein 5
+Protein S100-A1
+Actin-related protein 2/3 complex subunit 5
+Muscarinic acetylcholine receptor M2
+5-hydroxytryptamine receptor 3C
+Antithrombin-III
+Formimidoyltransferase-cyclodeaminase
+Potassium-transporting ATPase alpha chain 1
+Lysophospholipase, putative
+LicC protein
+mRNA-capping enzyme
+Cell division control protein 42 homolog
+NAD(P)H dehydrogenase [quinone] 1
+Ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+Probable asparagine--tRNA ligase, mitochondrial
+1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial
+5-hydroxytryptamine receptor 1C
+Casein kinase I isoform alpha
+Inhibitor of nuclear factor kappa-B kinase subunit epsilon
+30S ribosomal protein S16
+Dual specificity protein kinase TTK
+Receptor activity-modifying protein 1
+Putative monooxygenase MoxC
+Homoprotocatechuate 2,3-dioxygenase
+Morphinone reductase
+Nucleoid-associated protein Lsr2
+Neurocan core protein
+Envelope glycoprotein
+Heparin cofactor 2
+Beta-glucanase
+Proteasome subunit alpha type
+Tumor necrosis factor receptor superfamily member 1A
+Serine/threonine-protein kinase NIM1
+Calcium-binding mitochondrial carrier protein Aralar2
+Serine/threonine-protein kinase Nek2
+Layilin
+5-hydroxytryptamine receptor 7
+ADP-ribosylation factor 1
+Phosphodiesterase isozyme 4
+Meiotic recombination protein DMC1/LIM15 homolog
+Phenazine biosynthesis protein PhzG
+Mitogen-activated protein kinase kinase kinase 13
+Glutamate-gated chloride channel
+Divalent-cation tolerance protein CutA
+Actinorhodin polyketide synthase acyl carrier protein
+Bcl-2-like protein 2
+Aldo-keto reductase family 1 member C3
+Alanine--tRNA ligase, mitochondrial
+Probable L-lysine-epsilon aminotransferase
+Selenocysteine lyase variant
+Folic acid synthesis protein FOL1
+Ephrin type-A receptor 6
+N-acyl-phosphatidylethanolamine-hydrolyzing phospholipase D
+Heparan sulfate glucosamine 3-O-sulfotransferase 1
+Vitamin B12 transporter BtuB
+Proprotein convertase subtilisin/kexin type 9
+Niemann-Pick C1-like protein 1
+Quinohemoprotein ethanol dehydrogenase type-1
+Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform
+Fibroblast growth factor receptor 1
+Phospholipase C
+Para-aminobenzoate synthase component 1
+Alpha-2A adrenergic receptor
+ALK tyrosine kinase receptor
+Phosphodiesterase enzymes
+Glutamate receptor ionotropic, NMDA 3A
+Monocarboxylate transporter 5
+Aspartate aminotransferase
+Nucleoside deoxyribosyltransferase-I
+Thioredoxin reductase
+Penton protein
+HTH-type transcriptional regulator TreR
+tRNA-splicing ligase RtcB homolog
+Carboxypeptidase B
+Alpha-N-acetylgalactosaminidase
+Ig lambda chain V region 4A
+ATP-dependent RNA helicase UAP56
+Mesothelin
+Phospholipase A1
+Epididymal secretory glutathione peroxidase
+Semenogelin-1
+Diacylglycerol acyltransferase/mycolyltransferase Ag85C
+Histone H2B type 1-C/E/F/G/I
+Amine oxidase, flavin-containing protein
+Malate dehydrogenase, mitochondrial
+Cyclin-dependent kinase 15
+Nidogen-1
+Receptor-type tyrosine-protein kinase FLT3
+Equilibrative nucleoside transporter 1
+Trafficking protein particle complex subunit 5
+Beta-Ala-Xaa dipeptidase
+Immunoglobulin kappa variable 1-17
+40S ribosomal protein S3
+Gamma-glutamyltranspeptidase 1
+Trypanothione reductase
+2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial
+Thiostrepton
+Retinoic acid receptor RXR-beta
+Dihydroxyacetone kinase
+STE20/SPS1-related proline-alanine-rich protein kinase
+60S ribosomal protein L37
+Type-2 restriction enzyme EcoRV
+Nuclear receptor subfamily 1 group D member 1
+Metabotropic glutamate receptor 1
+Hydrolase
+High mobility group protein B1
+Anti-Muellerian hormone type-2 receptor
+GTPase KRas
+Uncharacterized lipoprotein YbbD
+Serine/threonine-protein kinase SIK2
+Halohydrin dehalogenase
+Angiotensinogen
+Cell division protein FtsZ
+Eukaryotic translation initiation factor 3 subunit C
+Thiosulfate sulfurtransferase GlpE
+Prohibitin-2
+Serine/threonine-protein kinase TAO1
+Cyclin homolog
+Microsomal glutathione S-transferase 2
+Penicillin binding protein 2a
+Multiple coagulation factor deficiency protein 2
+Histamine H2 receptor
+Protein S100-B
+Eotaxin
+Aminodeoxychorismate lyase
+CTP synthase 1
+Calcineurin subunit B type 1
+Prephenate dehydrogenase
+Translationally-controlled tumor protein homolog
+L-asparaginase
+DNA gyrase subunit B
+RNA
+Estradiol 17-beta-dehydrogenase 2
+Serine/threonine-protein kinase haspin
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial
+Granulysin
+Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B
+Peroxiredoxin-1
+Adenylosuccinate Synthetases
+HMG-CoA synthase
+Proteasome subunit alpha type-3
+Multi-sensor signal transduction histidine kinase
+Egl nine homolog 1
+Glutamate decarboxylase 2
+Deoxyribodipyrimidine photo-lyase
+High affinity immunoglobulin gamma Fc receptor IB
+Serine-protein kinase ATM
+Alpha-1-acid glycoprotein 1
+Respiratory nitrate reductase 1 alpha chain
+Maltose-6'-phosphate glucosidase
+Interleukin-10
+Maltodextrin phosphorylase
+Matrix metalloproteinase-14
+Hydroxyacid oxidase 2
+Sodium-dependent dopamine transporter
+B-N-acetylhexosaminidase
+E3 ubiquitin-protein ligase Mdm2
+Carbamoyl phosphate synthetase
+Asparagine--tRNA ligase, cytoplasmic
+Cytochrome c3, 13 kDa
+Hyaluronan-binding protein 2
+Troponin C, skeletal muscle
+Porin
+Adenosine receptor A1
+4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+Autolysin
+Riboflavin synthase
+Cathepsin F
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3
+Potassium voltage-gated channel subfamily A member 6
+Octanoyltransferase
+fMet-Leu-Phe receptor
+Tyrosine-protein kinase Fyn
+Kynurenine--oxoglutarate transaminase 1
+Nuclear migration protein nudC
+S-adenosylmethionine decarboxylase proenzyme
+Protein YceI
+Histone deacetylase
+Cystine
+Probable 5-formyltetrahydrofolate cyclo-ligase
+NADH-ubiquinone oxidoreductase chain 3
+30S ribosomal protein S9
+Extracellular signal-regulated kinase (ERK)
+Carcinoembryonic antigen
+m7GpppX diphosphatase
+Proteasome subunit alpha
+Cytidine deaminase
+F-box only protein 41
+Leucine carboxyl methyltransferase 2
+Cytochrome c oxidase subunit 3
+Spliceosome RNA helicase DDX39B
+Alcohol dehydrogenase
+Evolved beta-galactosidase subunit alpha
+Cytochrome c oxidase subunit 7B, mitochondrial
+NADH-ubiquinone oxidoreductase chain 1
+Succinate dehydrogenase cytochrome b556 subunit
+Histone deacetylase-like amidohydrolase
+Transforming growth factor beta-1
+Gamma-aminobutyric acid receptor subunit alpha-2
+Cationic amino acid transporter 3
+Alpha-ketoglutarate-dependent dioxygenase FTO
+Mitogen-activated protein kinase 7
+GDP-mannose 4,6 dehydratase
+Histidine ammonia-lyase
+Ig kappa chain V-II region RPMI 6410
+Adenosylhomocysteinase
+Epoxide hydrolase
+Agmatinase, putative
+Nine-heme cytochrome c
+Keratin, type II cytoskeletal 7
+Ring-infected erythrocyte surface antigen
+Equilibrative nucleoside transporter 4
+Modification methylase PvuII
+Inositol phosphorylceramide synthase
+Glutamate receptor ionotropic, NMDA 2D
+D-amino-acid oxidase
+Alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase
+Phospholipase D1
+Ribose-5-phosphate isomerase B
+Apoptosis regulatory protein Siva
+Mitogen-activated protein kinase 15
+Coagulation factor X
+Amorphous calcium phosphate
+Proto-oncogene tyrosine-protein kinase ROS
+Cytochrome b-c1 complex subunit Rieske, mitochondrial
+Uric acid
+Urease
+Aspartate--tRNA ligase, cytoplasmic
+Sodium/hydrogen exchanger 1
+Tyrosine-protein kinase transforming protein Abl
+Prolyl endopeptidase Pep
+Methionine aminopeptidase 2
+Tropomyosin alpha-4 chain
+3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+Putrescine-binding periplasmic protein
+NrfC protein
+Mucin-2
+S-formylglutathione hydrolase
+Glycylpeptide N-tetradecanoyltransferase 2
+Proteasome subunit beta type-2
+Voltage-dependent anion-selective channel protein 3
+Estradiol 17-beta-dehydrogenase 8
+Acetyl-CoA acetyltransferase, cytosolic
+Bacterial outer membrane
+Polyprotein
+Naphthalene 1,2-dioxygenase subunit alpha
+Glyceraldehyde-3-phosphate dehydrogenase, testis-specific
+Nuclear receptor ROR-alpha
+Complement C1s subcomponent
+Streptopain
+Alpha,alpha-trehalose-phosphate synthase [UDP-forming]
+Keratin-associated protein 5-2
+Insulin receptor-related protein
+Protein S100-A16
+Riboflavin kinase
+NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial
+V-type proton ATPase subunit C 1
+Dehydrogenase/reductase SDR family member 4
+CAMP phosphodiesterase
+Leukotriene A-4 hydrolase
+Mitogen-activated protein kinase 12
+Hydrogen ions
+5-methyltetrahydrofolate--homocysteine S-methyltransferase
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial
+Cytochrome b6-f complex subunit 4
+Bifunctional polymyxin resistance protein ArnA
+Phosphoenolpyruvate carboxykinase, cytosolic [GTP]
+Dermcidin
+DNA topoisomerase 2
+Cytochrome b-c1 complex subunit 10
+Cytochrome c oxidase subunit 1-beta
+Tubulin delta chain
+KiSS-1 receptor
+Nuclear factor NF-kappa-B
+85/88 kDa calcium-independent phospholipase A2
+Molybdenum cofactor guanylyltransferase
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4
+Colicin-E3
+Thyroid hormone receptor beta
+60S ribosomal protein L26-like 1
+Ig kappa chain V-I region Bi
+Aldehyde dehydrogenase family 3 member B1
+ADP-ribosylation factor-like protein 5A
+Cholesterol side-chain cleavage enzyme, mitochondrial
+Penicillin-binding protein 1b
+Keratin, type II cytoskeletal 1
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+Tumor necrosis factor receptor superfamily member 1B
+Globotriaosylceramide
+Xanthan lyase
+Ribose-5-phosphate isomerase
+Lactose operon repressor
+Melatonin receptor type 1B
+Glutamate--cysteine ligase
+Sucrase-isomaltase, intestinal
+Beta adrenergic receptor
+Phytanoyl-CoA dioxygenase, peroxisomal
+ATP-dependent Clp protease proteolytic subunit
+Prolyl 4-hydroxylase subunit alpha-2
+N-succinylarginine dihydrolase
+MIO-dependent tyrosine 2,3-aminomutase
+c-Jun N-terminal kinases
+Cytochrome b-c1 complex subunit 6, mitochondrial
+Terminal oxygenase component of carbazole
+pH-gated potassium channel KcsA
+NTPase P4
+3-methylaspartate ammonia-lyase
+Quinohemoprotein amine dehydrogenase 40 kDa subunit
+Glucocorticoid binding proteins
+Penicillin-binding protein 1A
+Chondroitinase-B
+Cholesteryl ester transfer protein
+COUP transcription factor 1
+Isocitrate dehydrogenase [NADP] cytoplasmic
+Chemotaxis protein methyltransferase
+Calcium/calmodulin-dependent protein kinase type 1D
+Myosin-14
+Probable ATP-dependent 6-phosphofructokinase
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4
+Probable chorismate mutase
+Uncharacterized protein
+Epidermin decarboxylase
+Calcium and integrin-binding family member 2
+Alpha-mannosidase 2
+N-acylglucosamine 2-epimerase
+Organic hydroperoxide resistance protein, putative
+Microtubule-associated protein tau
+Soluble calcium-activated nucleotidase 1
+Pyridoxine-5'-phosphate oxidase
+Sodium channel subunit beta-1
+Lutropin-choriogonadotropic hormone receptor
+Adrenodoxin, mitochondrial
+Arylsulfatase A
+Biphenyl-2,3-diol 1,2-dioxygenase
+Cholera enterotoxin subunit B
+Sulfurtransferase
+R2-like ligand binding oxidase
+Arabinogalactan endo-1,4-beta-galactosidase
+Ig gamma-1 chain C region
+Dual specificity protein kinase CLK2
+Medium-chain specific acyl-CoA dehydrogenase, mitochondrial
+Actin-related protein 3
+Oxidoreductase HTATIP2
+Integrin beta-3
+HIV-1 protease
+Protein ArsC
+Proteasome subunit beta type-3
+Leukocyte tyrosine kinase receptor
+Dihydroorotate dehydrogenase (quinone)
+Glucosamine-6-phosphate isomerase 1
+Nitrogen regulation protein NR(I)
+cGMP-dependent protein kinase 2
+Thymidine kinase
+Solute carrier family 22 member 8
+Complement component 1q (C1q)
+Acetyl-coenzyme A synthetase, cytoplasmic
+Monocarboxylate transporter 8
+Schistosome calcium ion (Ca2+) channels
+Biliverdin reductase A
+Cholecystokinin receptor type A
+Discoidin domain-containing receptor 2
+Mitogen-activated protein kinase 10
+Cathepsin K
+Keratin, type I cytoskeletal 10
+Aldehyde oxidase
+Cyclin-dependent kinase 16
+Amiloride-sensitive sodium channel subunit beta
+Corticosteroid-binding globulin
+Glycodelin
+Deoxyuridine 5'-triphosphate nucleotidohydrolase, putative
+Lysine--tRNA ligase
+Vitamin K epoxide reductase complex subunit 1
+L-asparaginase 2
+Potassium channel subfamily K member 1
+Fumarate reductase cytochrome b subunit
+60S ribosomal protein L10
+Tubulin beta-2B chain
+Envelope glycoprotein GP350
+Tyrosine--tRNA ligase, cytoplasmic
+Mitogen-activated protein kinase kinase kinase 12
+N(G),N(G)-dimethylarginine dimethylaminohydrolase 2
+Meso-diaminopimelate D-dehydrogenase
+Cyclin-dependent kinase 5 activator 1
+Clusterin
+Ras-related protein Rab-5A
+Putidaredoxin reductase
+B-lymphocyte antigen CD19
+Putative hydroxypyruvate isomerase YgbM
+Enterotoxin type B
+Tubulin beta-4B chain
+Proline iminopeptidase
+Ephrin type-A receptor 8
+Small conductance calcium-activated potassium channel protein 3
+Serine/threonine-protein kinase RIO2
+Interleukin-12 subunit beta
+T-cell surface antigen CD2
+Hydroxyacid oxidase 1
+Dihydropteroate synthase type-1
+P2Y purinoceptor 12
+Early endosome antigen 1
+Mitogen-activated protein kinase kinase kinase 6
+Microsomal triglyceride transfer protein large subunit
+Methionine synthase
+DNA-directed RNA polymerase subunit omega
+Actin, cytoplasmic 2
+3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+Catechol O-methyltransferase
+Serine palmitoyltransferase 1
+Dopamine receptor
+Nuclear receptor subfamily 1 group I member 3
+Glucan 1,4-alpha-maltotetraohydrolase
+Arachidonate 5-lipoxygenase-activating protein
+Aspartate aminotransferase, mitochondrial
+Serine protease inhibitor Kazal-type 6
+DNA gyrase subunit A
+Eosinophil cationic protein
+Glutamate receptor ionotropic, kainate 4
+Tripartite terminase subunit 2
+DNA-3-methyladenine glycosylase 1
+Proteasome subunit beta
+GTP-binding protein SAR1b
+Voltage-dependent calcium channel subunit alpha-2/delta-2
+Tyrosine-protein phosphatase non-receptor type 6
+Tumor protein p73
+Cyclin-A2
+N-acylethanolamine-hydrolyzing acid amidase
+Anaerobic bacterial DNA
+Long-chain-fatty-acid--CoA ligase 4
+Haptoglobin-related protein
+Estrogen-related receptor gamma
+Galectin-10
+Gamma-aminobutyric acid receptor subunit theta
+5-aminolevulinate synthase, nonspecific, mitochondrial
+Solute carrier family 22 member 12
+Glycogen synthase kinase-3 beta
+Protein arginine N-methyltransferase 3
+Tumor necrosis factor ligand superfamily member 11
+Activin receptor type-2A
+Cystathionine gamma-lyase
+DNA polymerase epsilon subunit 4
+Tyrosine-protein phosphatase non-receptor type 12
+DNA ligase 3
+Protein NOV homolog
+Glycine dehydrogenase [decarboxylating], mitochondrial
+B-cell antigen receptor complex-associated protein beta chain
+C4b-binding protein beta chain
+Sodium- and chloride-dependent GABA transporter 2
+Serine/threonine-protein kinase MARK2
+Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+Elastin
+Adenylate cyclase type 5
+Cytochrome b-c1 complex subunit 8
+Inosine-5'-monophosphate dehydrogenase 2
+Serine/threonine-protein kinase 3
+Heat shock factor protein 1
+Prolactin receptor
+Regulatory protein TenI
+Cytochrome c oxidase subunit 6B1
+Arachidonate 15-lipoxygenase
+Neuronal acetylcholine receptor subunit alpha-7
+DNA topoisomerase 2-alpha
+Plasmepsin-1
+Botulinum neurotoxin type F
+Melatonin receptor type 1A
+Diacetyl reductase [(S)-acetoin forming]
+Tissue-type plasminogen activator
+Myeloperoxidase
+ATP synthase subunit gamma, mitochondrial
+Lymphotoxin-alpha
+Prostaglandin F synthase
+B-lymphocyte antigen CD20
+Hydroxycarboxylic acid receptor 3
+Trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+Bifunctional protein PutA
+Glucagon receptor
+Voltage-dependent P/Q-type calcium channel
+Glucokinase
+Cyclic AMP-responsive element-binding protein 1
+Calcium transporting ATPases
+Serine/threonine-protein kinase PAK 6
+O-acetyl-ADP-ribose deacetylase
+Solute carrier family 22 member 7
+Histidine--tRNA ligase
+Endoglucanase 5A
+Tripartite terminase subunit 3
+Cyclic pyranopterin monophosphate synthase
+Glutathione S-transferase theta-2
+Plasma kallikrein
+DNA topoisomerase I, mitochondrial
+5-hydroxytryptamine receptor 6
+NADPH oxidase 1
+DNA (cytosine-5)-methyltransferase 3A
+Interferon gamma receptor 1
+Bifunctional PGK/TIM
+Pancreatic alpha-amylase
+50S ribosomal protein L11
+Beta-glucosidase A
+[Pyruvate dehydrogenase [lipoamide]] kinase isozyme 1, mitochondrial
+SRSF protein kinase 2
+Actin-related protein 2/3 complex subunit 2
+Cytosolic phospholipase A2
+Testosterone 17-beta-dehydrogenase 3
+Mitogen-activated protein kinase kinase kinase 9
+Alpha-7 nicotinic cholinergic receptor subunit
+Bcl2 antagonist of cell death
+Retinol-binding protein 4
+Neuropeptide Y receptor type 1
+Proteasome subunit beta type-4
+Phosphorylase
+Sulfite oxidase, mitochondrial
+Cytochrome b6
+Arylamine N-acetyltransferase
+60S ribosomal protein L23
+Calcium-dependent secretion activator 2
+Mannose-binding protein C
+Heat shock 70 kDa protein 13
+Voltage-dependent L-type calcium channel subunit beta-1
+Tubulin beta-3 chain
+Regulatory protein E2
+Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1
+Casein kinase I isoform gamma-2
+Purine nucleoside phosphorylase 2
+Arylalkylamine N-acetyltransferase
+Adenosine receptor A2b
+Coagulation factor XIII A chain
+Deoxycytidine triphosphate deaminase
+Solute carrier family 15 member 2
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1
+Myc proto-oncogene protein
+Blasticidin-S deaminase
+DnaJ protein, putative
+Transgelin
+Sodium channel subunit beta-4
+T-cell surface glycoprotein CD3 delta chain
+Dual specificity protein kinase CLK3
+Protein S100-A10
+Tryptase beta-2
+Release factor glutamine methyltransferase
+Diamine acetyltransferase 1
+Collagenase 3
+Kallikrein-6
+High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A
+Creatine kinase M-type
+Hepatocyte growth factor receptor
+Maternal embryonic leucine zipper kinase
+ActII protein
+NADPH oxidase organizer 1
+Bone morphogenetic protein receptor type-1A
+Pyrroline-5-carboxylate reductase 3
+3-dehydroquinate dehydratase
+Short-chain dehydrogenase/reductase 3
+Trefoil factor 1
+Rhomboid protease GlpG
+3-hydroxy-3-methylglutaryl-coenzyme A reductase
+Renin
+Glucocerebroside
+Cofilin-1
+25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial
+HLA class II histocompatibility antigen, DRB1-1 beta chain
+Amyloid-like protein 1
+Integrin beta-7
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial
+Alanine--tRNA ligase, cytoplasmic
+Alcohol dehydrogenase 1B
+Matrix metalloproteinase-15
+Muscle nicotinic acetylcholine receptor
+Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase
+L-amino-acid oxidase
+Rubredoxin-oxygen oxidoreductase
+IAG-nucleoside hydrolase
+Oxysterols receptor LXR-alpha
+Inosine-5'-monophosphate dehydrogenase
+Hypoxia-inducible factor 1-alpha inhibitor
+Cyanovirin-N
+Complement C3
+Catechol 2,3-dioxygenase
+Cytohesin-3
+Ras-related protein Rab-8B
+T-cell receptor beta-1 chain C region
+Eukaryotic translation initiation factor 2-alpha kinase 1
+Transgelin-2
+Cytochrome c-553
+Tyrosine
+Apolipoprotein A-II
+Prostaglandin D2 receptor 2
+ATP-binding cassette sub-family A member 1
+Tyrosine-protein kinase JAK1
+Methotrexate
+Complement component 1 Q subcomponent-binding protein, mitochondrial
+Ribosome-recycling factor
+Dephospho-CoA kinase
+Acetyl-CoA carboxylase 1
+Chloramphenicol acetyltransferase 3
+Ig heavy chain V-I region ND
+Sorting nexin-3
+Egl nine homolog 3
+Glycine receptor subunit alpha-2
+D(1) dopamine receptor
+Beta-glucosidase
+Macrophage receptor MARCO
+Serine/threonine-protein kinase ULK2
+Peroxisomal carnitine O-octanoyltransferase
+Laminarinase
+Glucagon-like peptide 1 receptor
+Eukaryotic initiation factor 4A-I
+Multidrug resistance-associated protein 4
+Chymotrypsinogen B
+Cytochrome b-c1 complex subunit 7
+Proteasome subunit beta type-5
+Neuronal acetylcholine receptor subunit beta-2
+Steroidogenic factor 1
+30S ribosomal protein S11
+Sodium- and chloride-dependent betaine transporter
+High affinity cationic amino acid transporter 1
+Acidic cytochrome c3
+NmrA-like family domain-containing protein 1
+NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial
+Cytochrome b5 type B
+Molybdopterin synthase catalytic subunit
+Mitochondrial potassium channel
+tRNA (cytidine(34)-2'-O)-methyltransferase
+Hypothetical membrane spanning protein
+Sodium/potassium-transporting ATPase subunit alpha-2
+Ferredoxin--NADP reductase
+Acetoin utilization protein
+Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Trans-L-3-hydroxyproline dehydratase
+Gag-Pol polyprotein
+Disintegrin and metalloproteinase domain-containing protein 10
+Keratin, type II cytoskeletal 5
+Sphingomyelin phosphodiesterase 3
+Pantothenate kinase
+Serine/threonine-protein kinase A-Raf
+3-keto-L-gulonate-6-phosphate decarboxylase UlaD
+Sphingomyelin phosphodiesterase 4
+Voltage-dependent N-type calcium channel subunit alpha-1B
+Methionine gamma-lyase
+CD40 ligand
+NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial
+Dopamine D5 receptor
+NADP-dependent fatty aldehyde dehydrogenase
+Serine/threonine-protein kinase PAK 2
+Serine/threonine-protein phosphatase 5
+Pituitary adenylate cyclase-activating polypeptide
+Fibroblast growth factor receptor 2
+Peptidyl-glycine alpha-amidating monooxygenase
+Proteasome subunit alpha type-6
+Bone marrow proteoglycan
+Calcium/calmodulin-dependent protein kinase type II subunit beta
+Guanylate cyclase
+Serine/threonine-protein kinase 10
+6-phospho-beta-glucosidase BglT
+NMDA receptor
+Metabotropic glutamate receptor 2
+Signal transducer and activator of transcription 5B
+3 beta-hydroxysteroid dehydrogenase/Delta 5--&gt;4-isomerase type 2
+Dipeptidyl aminopeptidase 1
+Neuronal acetylcholine receptor subunit beta-3
+Ferrichrome-iron receptor
+Cathepsin D
+30S ribosomal protein S12
+16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+Elongation factor 1-alpha 1
+Sepiapterin reductase
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9
+G-protein coupled bile acid receptor 1
+Aspartate--tRNA ligase
+Lipase
+Cytochrome b-c1 complex subunit 2, mitochondrial
+2-oxoglutarate dehydrogenase, mitochondrial
+ATP-binding cassette sub-family C member 9
+Signal recognition particle receptor, beta subunit
+Proteasome subunit beta type-6
+Ornithine carbamoyltransferase, mitochondrial
+Cyclin-dependent kinase 5
+NAD(P) transhydrogenase subunit beta
+Benzoate 1,2-dioxygenase electron transfer component
+Stress-induced-phosphoprotein 1
+Sphingosine 1-phosphate receptor 4
+Peroxisome proliferator-activated receptor gamma coactivator 1-beta
+DNA polymerase catalytic subunit
+Probable polysaccharide deacetylase PdaA
+Methylmalonic aciduria type A protein, mitochondrial
+UDP-N-acetylmuramate--L-alanine ligase
+Bacterial regulatory protein, TetR family
+Immunoglobulin heavy constant epsilon
+Cyclin-G-associated kinase
+Phosphoenolpyruvate-protein phosphotransferase
+Tubulin alpha-1A chain
+Clostridium difficile Toxin B
+CCAAT/enhancer-binding protein beta
+GABA-A gated chloride channel
+Lantibiotic nisin-Z
+Voltage-dependent L-type calcium channel subunit beta-4
+Tautomerase PptA
+Phenylalanine-4-hydroxylase
+Histone deacetylase 8
+Hematopoietic prostaglandin D synthase
+Microtubule-associated protein 1A
+Methylaspartate ammonia-lyase
+Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+GTP-binding protein Rheb
+Growth hormone-releasing hormone receptor
+Apoptosis regulator Bcl-2
+Calmodulin
+Chondroitinase-AC
+Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial
+Neutral amino acid transporter B(0)
+Serine/threonine-protein kinase 24
+Endoglucanase H
+Glucose-6-phosphate 1-dehydrogenase
+GD2 disialoganglioside
+Serine/threonine-protein kinase PLK1
+Homeobox protein Hox-A10
+L-serine dehydratase/L-threonine deaminase
+Extracellular subtilisin-like serine proteinase
+Hepatocyte nuclear factor 4-gamma
+Heme oxygenase 1
+Voltage-gated Potassium Channels
+6-phospho-beta-galactosidase
+Complement decay-accelerating factor
+FMN-dependent NADH-azoreductase 1
+Prostaglandin reductase 1
+Transaldolase B
+Prolyl tripeptidyl peptidase
+Diadenosine hexaphosphate hydrolase
+Acetylcholine receptor subunit alpha
+Elongation factor Tu, mitochondrial
+Carnitine O-acetyltransferase
+Cyd operon, Mycobacterium tuberculosis
+Myotonin-protein kinase
+Cationic amino acid transporter 4
+Thiosulfate sulfurtransferase
+Complement factor H
+Putative acyl-CoA dehydrogenase
+Protocatechuate 3,4-dioxygenase alpha chain
+2,2-dialkylglycine decarboxylase
+Tryptophan synthase beta chain
+Glucose-6-phosphate isomerase B
+Urease subunit gamma
+6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4
+Myeloblastin
+Ankyrin repeat and protein kinase domain-containing protein 1
+Dual specificity mitogen-activated protein kinase kinase 5
+Trypsin
+Non-heme chloroperoxidase
+Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A
+4-cresol dehydrogenase [hydroxylating] flavoprotein subunit
+Mitogen-activated protein kinase kinase kinase MLT
+3-ketoacyl-CoA thiolase
+Casein kinase I isoform gamma-1
+Sigma factor SigB regulation protein RsbQ
+T-complex protein 1 subunit eta
+ATP-citrate synthase
+All-trans-retinol 13,14-reductase
+Gamma-aminobutyric acid receptor subunit rho-1
+3,4-dihydroxyphenylacetate 2,3-dioxygenase
+Chloramphenicol 3-O phosphotransferase
+Acyl-CoA dehydrogenase, short-chain specific
+T-cell surface glycoprotein CD1a
+Alpha-2-macroglobulin
+Chitotriosidase-1
+Interleukin-4 receptor subunit alpha
+Sphingosine 1-phosphate receptor 3
+Isocitrate dehydrogenase [NAD] subunit alpha, mitochondrial
+Cytochrome b6-f complex subunit 5
+Argininosuccinate synthetase, isoform CRA_a
+4-chlorobenzoyl CoA ligase
+Calcium-transporting ATPase type 2C member 1
+Mismatch repair endonuclease PMS2
+Insulin receptor substrate 1
+Mercury
+Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+Exotoxin A
+Neutral amino acid transporter A
+2'-5'-oligoadenylate synthase 1
+Carboxypeptidase N subunit 2
+Ganglioside GM2 activator
+C-X-C chemokine receptor type 4
+Proteinase-activated receptor 1
+Selenocysteine lyase
+Hepatoma-derived growth factor
+C-C chemokine receptor type 9
+Dimethyl sulfoxide/trimethylamine N-oxide reductase
+Beta-nerve growth factor
+Outer-membrane lipoprotein LolB
+Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial
+Cystathionine gamma-synthase
+Retinoic acid receptor RXR-gamma
+Aromatic-L-amino-acid decarboxylase
+Kynureninase
+Dihydroorotate dehydrogenase (quinone), mitochondrial
+Putative pteridine reductase 2
+Interleukin-1 beta
+Aspartate--tRNA ligase, mitochondrial
+Galactoside O-acetyltransferase
+N,N'-diacetylchitobiose-specific phosphotransferase enzyme IIB component
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7
+Microsomal glutathione S-transferase 1
+SEC14-like protein 2
+Voltage-dependent T-type calcium channel
+Receptor activity-modifying protein 3
+Cytochrome c oxidase subunit 7A1, mitochondrial
+Diablo homolog, mitochondrial
+Very low-density lipoprotein receptor
+V-type H(+)-translocating pyrophosphatase, putative
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11
+Estrogen receptor beta
+Aryl hydrocarbon receptor
+Probable GTP-binding protein EngB
+Glycerol-3-phosphate cytidylyltransferase
+ATP synthase subunit beta, mitochondrial
+Carnitine O-palmitoyltransferase 2, mitochondrial
+C-&gt;U-editing enzyme APOBEC-1
+Beta-lactamase CTX-M-15
+Tyrosinase
+2,3-dihydroxybenzoate-AMP ligase
+Prolyl 3-hydroxylase 2
+Methionyl-tRNA formyltransferase, mitochondrial
+Apocarotenoid-15,15'-oxygenase
+Probable transcriptional activator protein TraR
+Potassium voltage-gated channel subfamily KQT member 4
+NAD-dependent protein deacylase sirtuin-5, mitochondrial
+Aralkylamine dehydrogenase light chain
+Glycine--tRNA ligase
+Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+Minor histocompatibility antigen H13
+Arginine decarboxylase
+Glyceraldehyde-3-phosphate dehydrogenase, glycosomal
+Thiol:disulfide interchange protein DsbA
+Cytochrome P450 1A1
+Calcineurin subunit B type 2
+Protein IolS
+Interleukin-6 receptor subunit alpha
+Plasmepsin IV
+Serpin B3
+Ras-related protein Rab-9A
+1,3-beta-glucan synthase component GSC2
+5-hydroxytryptamine receptor 1B
+DNA (cytosine-5)-methyltransferase 1
+Hypoxia-inducible factor 1-alpha
+Mitogen-activated protein kinase 9
+Apolipoprotein E
+40S ribosomal protein S13
+Colicin-Ia
+Isoleucine--tRNA ligase, cytoplasmic
+Endoplasmin homolog, putative
+Hexon protein
+Histidine triad nucleotide-binding protein 1
+Stromelysin-1
+Bacteriorhodopsin
+30S ribosomal protein S4
+Urease subunit alpha
+Inter-alpha-trypsin inhibitor heavy chain H4
+Peptide deformylase
+Geranylgeranyl transferase type-1 subunit beta
+NUAK family SNF1-like kinase 2
+L-cysteine/cystine lyase C-DES
+Potassium voltage-gated channel subfamily A member 1
+Nucleobindin-2
+DNA topoisomerase 2-beta
+Sodium channel protein type 5 subunit alpha
+Response regulator PleD
+Inositol-3-phosphate synthase 1
+Thyroid peroxidase
+S-adenosylmethionine synthase isoform type-1
+Chymase
+Thiosulfate reductase
+Alpha-amylase
+NADPH oxidase
+Sodium-dependent noradrenaline transporter
+Toll-like receptor 8
+Protein-arginine deiminase type-6
+Voltage-dependent R-type calcium channel
+Parathyroid hormone
+Probable 2-phosphosulfolactate phosphatase
+Microsomal glutathione S-transferase 3
+V-type proton ATPase catalytic subunit A
+Complement factor B
+Fimbrial protein
+Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase
+Leucyl/phenylalanyl-tRNA--protein transferase
+Maltase-glucoamylase, intestinal
+Formate dehydrogenase, nitrate-inducible, major subunit
+Mu-type opioid receptor
+Alanine aminotransferase 1
+Glucagon-like peptide 2 receptor
+Platelet-derived growth factor receptor beta
+Annexin A2
+Camphor 5-monooxygenase
+Phospholipid membrane
+Transcription antiterminator LicT
+Casein kinase 2, alpha subunit
+Ribose-phosphate pyrophosphokinase
+Genome polyprotein
+Pregnancy zone protein
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial
+Gag polyprotein
+Calmodulin-3
+Serotransferrin
+Nuclear factor NF-kappa-B p105 subunit
+Breakpoint cluster region protein
+Lens fiber major intrinsic protein
+Multidrug resistance-associated protein 5
+Fibroblast growth factor 23
+Pyrroline-5-carboxylate reductase
+Subtilisin DY
+RdmB
+Cytochrome c-550
+Poly(A) polymerase alpha
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8
+Carboxypeptidase D
+Mitogen-activated protein kinase kinase kinase 2
+Acetyl-CoA acetyltransferase
+Parathion hydrolase
+Beta-lactamase (KPC-2)
+Zinc finger Y-chromosomal protein
+Mannan-binding lectin serine protease 2
+Proto-oncogene c-Fos
+Calcium-dependent protein kinase 4
+Nuclear receptor subfamily 1 group I member 2
+Protein disulfide-isomerase
+SPARC
+Trace amine-associated receptor 1
+Tyrosine-protein phosphatase non-receptor type 4
+Solute carrier organic anion transporter family member 1B1
+Ig heavy chain V-III region VH26
+Quinohemoprotein amine dehydrogenase 60 kDa subunit
+Cyclic nucleotide-gated potassium channel mll3241
+Dietary starch
+Sodium channel protein type 2 subunit alpha
+Bacterial hemoglobin
+ATP-dependent Clp protease ATP-binding subunit ClpX
+Protective antigen
+vesicular monoamine transporter 2 (VMAT2)
+Ceruloplasmin
+cAMP-specific 3',5'-cyclic phosphodiesterase 4D
+Probable thiol peroxidase
+Guanine nucleotide-binding protein G(t) subunit alpha-1
+Serine/threonine-protein kinase N2
+Maltoporin
+Protein S100-A12
+Periplasmic oligopeptide-binding protein
+Angiopoietin-2
+Serum paraoxonase/arylesterase 1
+Respiratory nitrate reductase 1 gamma chain
+Alpha-1-antitrypsin
+Tyrosine-protein kinase ITK/TSK
+Carcinoembryonic antigen-related cell adhesion molecule 5
+Mothers against decapentaplegic homolog 2
+Probable pyruvate-flavodoxin oxidoreductase
+E3 ubiquitin-protein ligase TRIM13
+Cyclin-dependent kinase 6
+5-hydroxytryptamine receptor 5A
+Quinoprotein ethanol dehydrogenase
+Outer membrane protein II
+Vitamin K-dependent protein C
+Hypothetical gliding protein
+Pseudomonalisin
+Glycosyl transferase
+Gelsolin
+activator protein 1
+Putative ornithine carbamoyltransferase
+Cytochrome c oxidase subunit 7C, mitochondrial
+Myelin P2 protein
+Ephrin type-A receptor 5
+Ornithine aminotransferase, mitochondrial
+Guanylate cyclase soluble subunit alpha-2
+Pyruvate dehydrogenase E1 component subunit beta, mitochondrial
+5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Intercellular adhesion molecule 1
+Folylpolyglutamate synthase, mitochondrial
+Mitochondrial carnitine/acylcarnitine carrier protein
+Endothelin-1
+Nonstructural protein 5A
+Lactose permease
+Alcohol dehydrogenase 1A
+Alpha-2,3-/2,8-sialyltransferase
+Vitamin K epoxide reductase complex subunit 1-like protein 1
+Human immunodeficiency virus type 1 protease
+Valine--tRNA ligase
+Osteocalcin
+Alpha-galactosidase A
+Prolow-density lipoprotein receptor-related protein 1
+Sorbitol dehydrogenase
+Elongation factor G
+RdmC
+Dystrophin
+Glycerol kinase
+Vasopressin V1a receptor
+Serine--pyruvate aminotransferase
+Voltage-dependent L-type calcium channel subunit alpha-1S
+Protease synthase and sporulation negative regulatory protein PAI 1
+CD44 antigen
+Dopamine D3 receptor
+MAP kinase-activated protein kinase 2
+C-X-C motif chemokine 10
+Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+Phosphoglycerate mutase 1
+Ephrin type-A receptor 1
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Glucocorticoid receptor
+8-amino-7-oxononanoate synthase
+Lipoyl synthase, mitochondrial
+Poly [ADP-ribose] polymerase 1
+Nickel-binding periplasmic protein
+Anoctamin-1
+Serine/threonine-protein kinase pim-1
+Fibroblast growth factor 2
+ATP-sensitive inward rectifier potassium channel 12
+Solute carrier family 12 member 1
+Aminoacylase-1
+Phosphatidylserine synthase 2
+Chymotrypsin-like elastase family member 2A
+NAD-dependent malic enzyme, mitochondrial
+Vascular endothelial growth factor receptor 2
+Glutamate--cysteine ligase catalytic subunit
+Histone acetyltransferase KAT2B
+60S ribosomal protein L11
+UDP-galactopyranose mutase
+Bone morphogenetic protein 4
+Peroxisomal trans-2-enoyl-CoA reductase
+Nuclear receptor coactivator 1
+Bifunctional protein NCOAT
+Mono-ADP-ribosyltransferase C3
+Leucine carboxyl methyltransferase 1
+Alpha-L-fucosidase, putative
+Furin
+Proteasome subunit alpha type-5
+Histidine-rich glycoprotein
+Vesicle-fusing ATPase
+Alkaline phosphatase, tissue-nonspecific isozyme
+Succinyl-CoA:3-ketoacid coenzyme A transferase 1, mitochondrial
+Lactose
+Photosynthetic reaction center cytochrome c subunit
+Glutathione S-transferase A2
+Creatine kinase U-type, mitochondrial
+Phenylacetone monooxygenase
+Neuronal acetylcholine receptor subunit alpha-6
+Pannexin-1
+5-hydroxytryptamine receptor 3A
+Glyoxalase family protein
+Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma
+IL13 protein
+Enolase
+Surface protein A
+CREB-binding protein
+Sodium-dependent proline transporter
+Gamma-hydroxybutyrate (GHB) receptor
+Immunoglobulin lambda-like polypeptide 1
+GDP-L-fucose synthase
+Bifunctional tail protein
+Monocarboxylate transporter 2
+Squalene--hopene cyclase
+Destrin
+Cytochrome P450 3A5
+Inositol 1,4,5-trisphosphate receptor
+Radixin
+RNA-directed RNA polymerase
+Tyrosine-protein phosphatase YopH
+Neuronal acetylcholine receptor subunit alpha-3
+Penicillin-binding protein 2X
+Cathepsin G
+Tyrosine-protein kinase ABL1
+DNA polymerase I, thermostable
+Carbonic anhydrase 13
+Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 3
+Glycerol uptake operon antiterminator regulatory protein
+ATP-binding cassette sub-family G member 2
+Plasmodium exported protein
+Cobalt-precorrin-5B C(1)-methyltransferase
+NT-3 growth factor receptor
+Sialidase-2
+P-selectin
+Prenyltransferase
+Isovaleryl-CoA dehydrogenase, mitochondrial
+Probable leucine--tRNA ligase, mitochondrial
+Growth factor receptor-bound protein 2
+Aminotransferase, putative
+Esterase
+TraF protein
+Sulfide-quinone reductase, putative
+Telomerase reverse transcriptase
+L-aspartate oxidase
+Sodium/calcium exchanger 1
+Neuronal acetylcholine receptor subunit beta-4
+Sodium-dependent serotonin transporter
+Mitogen-activated protein kinase 3
+Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+EDD domain protein, DegV family
+Filamin-A
+50S ribosomal protein L3
+Tyrosine-protein kinase receptor UFO
+Interferon alpha/beta receptor (IFNAR)
+Sphingomyelin phosphodiesterase
+G-protein coupled receptor 55
+Neural cell adhesion molecule L1
+Potassium channel subfamily K member 2
+Gamma-aminobutyric acid receptor subunit alpha-4
+Glycine cleavage system H protein, mitochondrial
+Peptidyl-prolyl cis-trans isomerase FKBP1A
+Stromelysin-3
+Pyruvate decarboxylase
+Chondroitinase (Chondroitin lyase)
+Ornithine cyclodeaminase
+HLA class I histocompatibility antigen, B-27 alpha chain
+Monoamine oxidase
+Neopullulanase
+Spermine synthase
+Nuclear factor of activated T-cells, cytoplasmic 1
+Disulfide bond formation protein B
+Dehydrogenase/reductase SDR family member 4-like 2
+Protein-tyrosine kinase 2-beta
+Holo-[acyl-carrier-protein] synthase
+Pyruvate, phosphate dikinase
+Serine/threonine-protein kinase PAK 3
+Alpha-1-acid glycoprotein 2
+Androgen receptor
+Alcohol dehydrogenase YqhD
+Troponin I, cardiac muscle
+Muscarinic acetylcholine receptor M4
+Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Guanine nucleotide-binding protein G(i) subunit alpha-1
+Methylglyoxal synthase
+Succinate dehydrogenase iron-sulfur subunit
+Glycogen phosphorylase, brain form
+Centromere-associated protein E
+Antigen-presenting glycoprotein CD1d
+Type I polyketide synthase PikAIV
+Inner membrane complex sub-compartment protein 3
+Ferredoxin-dependent glutamate synthase 2
+Cytokine receptor common subunit beta
+Chloramphenicol acetyltransferase
+Dipeptidase 1
+Interleukin-17A
+Beta-mannosidase
+HERG human cardiac K+ channel
+Bifunctional (p)ppGpp synthase/hydrolase RelA
+S-methyl-5'-thioadenosine phosphorylase
+Calmodulin-2
+SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1
+Interleukin-13 receptor subunit alpha-2
+Urocanate hydratase
+Intron-associated endonuclease 1
+Complement factor D
+Immunoglobulin J chain
+Granulocyte-macrophage colony-stimulating factor receptor subunit alpha
+Ribosomal protein S6 kinase alpha-4
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2
+NADPH:adrenodoxin oxidoreductase, mitochondrial
+Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma
+Serine/threonine-protein kinase receptor R3
+Splicing factor 1
+Angiopoietin-1 receptor
+Chain A, Red Copper Protein Nitrosocyanin
+RNA-dependent RNA-polymerase
+Sensor protein FixL
+TGF-beta-activated kinase 1 and MAP3K7-binding protein 1
+Serine/threonine-protein kinase OSR1
+2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1
+Anthrax toxin receptor 2
+Cathepsin L2
+Dietary fat
+Myo-inositol hexaphosphate phosphohydrolase
+Peroxisome proliferator-activated receptor delta
+Potassium channel subfamily K member 9
+Copper
+Glutaryl-CoA dehydrogenase
+Profilin-1
+Fumarate reductase flavoprotein subunit
+Rubredoxin
+Inosine-5'-monophosphate dehydrogenase 1
+Serine/threonine-protein kinase PknG
+NADPH-ferredoxin reductase FprA
+Proteasome subunit alpha type-2
+Thymidylate kinase
+NADH dehydrogenase [ubiquinone] 1 subunit C2
+Cysteine--tRNA ligase, cytoplasmic
+Dehydrosqualene synthase
+Ecto-NOX disulfide-thiol exchanger 2
+Oxysterols receptor LXR-beta
+Threonine--tRNA ligase, mitochondrial
+Antitumor antibiotic C-1027 apoprotein
+Acriflavine resistance protein B
+Light-harvesting protein B-800/820 beta chain
+Tumor necrosis factor receptor superfamily member 11A
+Fumarate reductase subunit D
+Geranylgeranyl pyrophosphate synthase
+Sodium/potassium-transporting ATPase subunit gamma
+Gamma-aminobutyric acid receptor subunit alpha-1
+Guanidinoacetate N-methyltransferase
+B1 bradykinin receptor
+1-aminocyclopropane-1-carboxylate synthase-like protein 1
+Bifunctional P-450/NADPH-P450 reductase
+Golgi-associated plant pathogenesis-related protein 1
+Adenylosuccinate synthetase isozyme 2
+Integrin beta-4
+Ig lambda-1 chain C regions
+NADH-ubiquinone oxidoreductase chain 6
+Interleukin-1 receptor type 1
+Phosphocarrier protein HPr
+Light-harvesting protein B-800/850 beta 1 chain
+ATP-dependent dethiobiotin synthetase BioD 1
+Ornithine decarboxylase
+Amyloid-like protein 2
+Lipoyltransferase 1, mitochondrial
+4-aminobutyrate aminotransferase GabT
+Monocarboxylate transporter 4
+Transcriptional regulator, GntR family
+Adenylate cyclase
+Argininosuccinate lyase
+Dissimilatory copper-containing nitrite reductase
+Aurora kinase B
+Somatostatin receptor
+Knob-associated histidine-rich protein
+60S ribosome subunit biogenesis protein NIP7 homolog
+Endoplasmin
+Receptor of activated protein C kinase 1
+Desmoplakin
+Outer membrane protein A
+Mucin-1
+Serine/threonine-protein phosphatase PP1-alpha catalytic subunit
+Chloride channel protein 2
+Protein disulfide-isomerase A3
+Chromaffin granule amine transporter
+Exportin-1
+Parvalbumin alpha
+Pappalysin-1
+DMD gene (exon 45 casimersen target site)
+(2Z,6E)-farnesyl diphosphate synthase
+Lipid A palmitoyltransferase PagP
+Digoxin
+Low affinity immunoglobulin gamma Fc region receptor III-A
+High affinity nerve growth factor receptor
+Recombination protein RecR
+Ran-specific GTPase-activating protein
+Natriuretic peptides B
+1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1
+Glutamine amidotransferase class-I
+N-acetylmuramoyl-L-alanine amidase
+Granulocyte-macrophage colony-stimulating factor
+Nitric oxide synthase, inducible
+Glutaryl-CoA dehydrogenase, mitochondrial
+Bactericidal permeability-increasing protein
+Odorant-binding protein 2a
+Amylase
+Myosin-11
+Geranyltranstransferase (Farnesyldiphosphate synthase)
+Tolloid-like protein 2
+Ryanodine receptor 2
+Gamma-aminobutyraldehyde dehydrogenase
+Inward rectifier potassium channel 4
+Cytochrome c oxidase subunit 6A2, mitochondrial
+S-adenosylmethionine synthase
+Intracellular exo-alpha-(1-&gt;5)-L-arabinofuranosidase
+Hydroxymethylglutaryl-CoA lyase, mitochondrial
+Methylamine dehydrogenase light chain
+Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1
+Galectin-3
+P2Y purinoceptor 2
+G-protein coupled receptor 12
+Dihydropteroate synthase 1
+Tubulin gamma-1 chain
+Dermatan sulfate
+Orotidine 5'-phosphate decarboxylase
+Leptin receptor
+Adenylate kinase 2, mitochondrial
+Corticoliberin
+3-isopropylmalate dehydrogenase
+NapC/NirT cytochrome c family protein
+Vitronectin
+Sphingosine-1-phosphate lyase 1
+MAP/microtubule affinity-regulating kinase 3
+O-phosphoseryl-tRNA(Sec) selenium transferase
+Putative L-rhamnose mutarotase
+Cytochrome P450 2A6
+Gamma-aminobutyric acid receptor subunit beta-3
+Galectin-9
+Cystatin-B
+ATP synthase subunit g, mitochondrial
+Trifunctional enzyme subunit alpha, mitochondrial
+Sclerostin
+Cytochrome P450 11B2, mitochondrial
+Nuclear receptor subfamily 4 group A member 3
+Thymidylate synthase ThyX
+Acyl-homoserine lactone acylase PvdQ
+Endoxylanase
+Phosphopantetheine adenylyltransferase
+GPI-linked NAD(P)(+)--arginine ADP-ribosyltransferase 1
+Polyhydroxybutyrate depolymerase, putative
+Glycogen phosphorylase, liver form
+L-lactate dehydrogenase A chain
+Hyaluronate lyase
+Calcium and integrin-binding protein 1
+Purine nucleoside phosphorylase
+Calcium-dependent secretion activator 1
+Acyl carrier protein, mitochondrial
+Trypsin-1
+Epsin-1
+Tyrosine phenol-lyase
+Probable proline--tRNA ligase, mitochondrial
+30S ribosomal protein S3
+Death-associated protein kinase 2
+Carbapenem-hydrolyzing beta-lactamase BlaB-1
+Endonuclease III
+Glucose-1-phosphate cytidylyltransferase
+Skeleton-binding protein 1
+Aldehyde oxidoreductase
+Neuronal acetylcholine receptor subunit alpha-4
+Arginine N-succinyltransferase subunit alpha
+Serine/threonine-protein kinase Sgk1
+Voltage-dependent T-type calcium channel subunit alpha-1I
+High affinity immunoglobulin gamma Fc receptor I
+Kinesin-like protein KIF2C
+Cytochrome P450 130
+Arsenite methyltransferase
+Catechol O-methyltransferase domain-containing protein 1
+Glucosylceramidase
+Heat-labile enterotoxin B chain
+Restriction endonuclease R.BpuJI
+cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A
+MAP/microtubule affinity-regulating kinase 4
+L-hydantoinase
+16S ribosomal RNA
+Type-2 angiotensin II receptor
+UDP-N-acetylglucosamine 2-epimerase
+N-acetylglucosamine-6-phosphate deacetylase
+Pyridoxal kinase
+10 kDa heat shock protein, mitochondrial
+Glutathione S-transferase A1
+D-ribose-binding periplasmic protein
+Wiskott-Aldrich syndrome protein
+Proteasome activator complex subunit 1
+Ryanodine receptor 1
+Tumor-associated glycoprotein 72 (TAG-72)
+Lipocalin-1
+ADP/ATP translocase 3
+Tyrosine 3-monooxygenase
+60S ribosomal protein L3
+Cytochrome b6-f complex subunit 7
+Endo-beta-1,4-xylanase
+dTDP-4-dehydrorhamnose reductase
+Argininosuccinate synthase
+Calcium ions
+Sorcin
+Sulfoxide reductase catalytic subunit YedY
+Cytochrome b-c1 complex subunit 9
+C-C motif chemokine 3
+Transthyretin mRNA
+Glutaminyl-peptide cyclotransferase
+ATP-binding cassette sub-family B member 5
+Acyl-coenzyme A thioesterase 13
+Trans-sialidase
+Phosphonoacetate hydrolase
+Anthranilate phosphoribosyltransferase
+3-hydroxy-3-methylglutaryl CoA synthase
+Adenylosuccinate synthetase isozyme 1
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+Thymidine kinase 2, mitochondrial
+High affinity immunoglobulin epsilon receptor subunit gamma
+Histamine H4 receptor
+Actin, aortic smooth muscle
+R-specific alcohol dehydrogenase
+60S ribosomal protein L4
+Modification methylase RsrI
+Collagen alpha-4(IV) chain
+TrwB
+Glutathione S-transferase Mu 1
+Penicillin-binding protein 1B
+Iduronic acid
+G1/S-specific cyclin-D1
+Malate dehydrogenase
+Melanin-concentrating hormone receptor 1
+40S ribosomal protein S3a
+Beta-3 adrenergic receptor
+Inactive phospholipase C-like protein 1
+Probable N-acetylneuraminic acid outer membrane channel protein NanC
+Phosphatidylinositol 3-kinase catalytic subunit type 3
+Guanylate kinase
+Uracil-DNA glycosylase inhibitor
+Biotin--protein ligase
+Gamma-aminobutyric acid receptor subunit alpha-6
+Iron(3+)-hydroxamate-binding protein FhuD
+Serine/threonine-protein kinase Chk2
+Malaria protein EXP-1
+Integrin beta-1
+Glutamate receptor 4
+Activin receptor type-1B
+Putative tubulin-like protein alpha-4B
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7
+Low affinity immunoglobulin gamma Fc region receptor II-c
+Sensor protein PhoQ
+Thiaminase-2
+Trypsin-2
+Mannosyl-oligosaccharide alpha-1,2-mannosidase
+G protein-activated inward rectifier potassium channel 1
+Carbonic anhydrase-related protein
+Rho-related GTP-binding protein RhoB
+Glutamyl aminopeptidase
+Cholinesterase
+Beta-1,4-galactosyltransferase 1
+Prostacyclin receptor
+50S ribosomal protein L1
+Phosphomannomutase/phosphoglucomutase
+Dopamine D2 receptor
+ADP/ATP translocase 2
+GABA(A) Receptor
+Platelet-activating factor acetylhydrolase
+Insulin-like growth factor-binding protein 3
+Metallothionein
+P-selectin glycoprotein ligand 1
+Interferon-induced, double-stranded RNA-activated protein kinase
+Probable outer membrane protein
+Angiotensin-converting enzyme 2
+Transitional endoplasmic reticulum ATPase
+Fe(3+) dicitrate transport protein FecA
+Glycine amidinotransferase, mitochondrial
+Fibrinogen
+Potassium voltage-gated channel subfamily H member 6
+Cytochrome b-c1 complex subunit 1, mitochondrial
+Platelet-derived growth factor receptor alpha
+Indole-3-pyruvate decarboxylase
+Arylacetamide deacetylase-like 2
+Ephrin type-B receptor 6
+Excitatory amino acid transporter 5
+3-oxo-5-alpha-steroid 4-dehydrogenase 1
+Rhodopsin
+Protein RIC-3
+Cyclin-dependent kinase 2
+Serine/threonine-protein kinase RIO1
+Carnitine O-palmitoyltransferase 1, liver isoform
+Eight-heme nitrite reductase
+Protein kinase C epsilon type
+Protein transport protein SEC31
+BoNT/A
+50S ribosomal protein L2
+Botulinum neurotoxin type G
+Heterogeneous nuclear ribonucleoproteins A2/B1
+N,N-dimethylglycine oxidase
+Interleukin-2 receptor subunit beta
+Tubulin epsilon chain
+Alcohol dehydrogenase 4
+Bacterial beta-lactamase enzymes
+Pyrroline-5-carboxylate reductase 1, mitochondrial
+Membrane primary amine oxidase
+Orf1a polyprotein
+Membrane-bound lytic murein transglycosylase B
+Serine/threonine-protein kinase PRP4 homolog
+Probable ATP-dependent RNA helicase DDX6
+Gamma-aminobutyric acid receptor subunit beta-1
+Cartilage oligomeric matrix protein
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 5
+Enamine/imine deaminase
+Focal adhesion kinase 1
+Aggrecan core protein
+Apolipoprotein(a)
+NimA-related protein
+Histamine N-methyltransferase
+Probable arabinosyltransferase A
+Cytochrome c2
+Guanylate cyclase soluble subunit beta-1
+cAMP-specific 3',5'-cyclic phosphodiesterase 4B
+Annexin A4
+5'-AMP-activated protein kinase
+Bile salt export pump
+Light-harvesting protein B-800/850 beta chain
+RNA-directed RNA polymerase lambda-3
+Casein kinase I isoform epsilon
+Chitinase B
+Carbonic anhydrase 4
+Gastrin/cholecystokinin type B receptor
+Ornithine decarboxylase, inducible
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13
+Retinoic acid receptor gamma
+Afadin
+Heat-stable enterotoxin receptor
+Annexin A3
+N5-carboxyaminoimidazole ribonucleotide mutase
+Protein S100-A11
+Mitogen-activated protein kinase kinase kinase 1
+Chloride intracellular channel protein 1
+Homeodomain-interacting protein kinase 3
+Succinate-semialdehyde dehydrogenase, mitochondrial
+Protein P
+Flavin reductase (NADPH)
+E3 ubiquitin-protein ligase XIAP
+Fatty-acid peroxygenase
+Tyrosine-protein kinase Lck
+Precorrin-8X methylmutase
+Dual specificity protein kinase CLK1
+60 kDa lysophospholipase
+Serum amyloid P-component
+Thioredoxin-like protein
+O-GlcNAcase NagJ
+Quinoprotein glucose dehydrogenase B
+Cytohesin-2
+Deoxycytidylate 5-hydroxymethyltransferase
+Insulin-like growth factor-binding protein 7
+Muscarinic acetylcholine receptor M5
+Dual specificity protein phosphatase 23
+Iron-dependent extradiol dioxygenase
+Thyrotropin Releasing Hormone Receptor
+Phosphate
+Uridine-cytidine kinase-like 1
+Riboflavin biosynthesis protein RibF
+Integrin alpha-IIb
+DNA ligase 1
+Gastric triacylglycerol lipase
+2-oxo-1,2-dihydroquinoline 8-monooxygenase, oxygenase component
+Cryptochrome DASH
+Cytochrome P450 1A2
+Ribosyldihydronicotinamide dehydrogenase [quinone]
+Chorismate--pyruvate lyase
+Calcium/calmodulin-dependent protein kinase type II subunit alpha
+C-X-C chemokine receptor type 1
+Haptoglobin
+E3 ubiquitin-protein ligase UBR4
+Iron
+MecA
+Lung epithelial cells
+Beta-lactamase 2
+Phosphatidylinositol 4-kinase beta
+Cytochrome c oxidase subunit 2
+Phenylalanine--tRNA ligase alpha subunit
+NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10
+Excitatory amino acid transporter 2
+Serine/threonine-protein kinase 17B
+30S ribosomal protein S6
+Alcohol dehydrogenase [NADP(+)]
+D-alanyl-D-alanine carboxypeptidase DacB
+Lead
+Cholix toxin
+cAMP-dependent protein kinase catalytic subunit alpha
+Cytochrome c nitrite reductase, catalytic subunit NfrA, putative
+O-GlcNAcase BT_4395
+TGF-beta receptor type-1
+Cyclic nucleotide phosphodiesterase
+Asialoglycoprotein receptor 2
+C-1-tetrahydrofolate synthase, cytoplasmic
+ATP-binding cassette sub-family G member 1
+Potassium voltage-gated channel subfamily KQT member 5
+KAT8 regulatory NSL complex subunit 3
+Leucine-rich alpha-2-glycoprotein
+Single-stranded DNA-binding protein
+Tubulin alpha chain
+Tryptophan--tRNA ligase, mitochondrial
+Superoxide dismutase [Cu-Zn]
+Serine protease hepsin
+6-pyruvoyl tetrahydrobiopterin synthase
+Glutathione reductase, mitochondrial
+Tyrosine-protein kinase Fer
+Alpha-glucuronidase
+Dietary protein
+Amiloride-sensitive sodium channel subunit alpha
+Cysteinyl leukotriene receptor 1
+cAMP-specific 3',5'-cyclic phosphodiesterase 4 (PDE4)
+5'-AMP-activated protein kinase subunit beta-1
+Aliphatic amidase expression-regulating protein
+Phenylethylamine oxidase
+ADP-ribosylation factor 4
+Short-chain specific acyl-CoA dehydrogenase, mitochondrial
+Beta-hexosaminidase subunit beta
+Cyclin-dependent kinase 4
+RAC-alpha serine/threonine-protein kinase
+4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Complement C1q subcomponent subunit C
+Lactaldehyde reductase
+Urease subunit beta
+Complement control protein C3
+D-beta-hydroxybutyrate dehydrogenase, mitochondrial
+Deoxynucleotide monophosphate kinase
+LIM domain kinase 1
+Prostaglandin G/H synthase 2
+Met proto-oncogene variant
+Cytochrome P450 2E1
+Short/branched chain specific acyl-CoA dehydrogenase, mitochondrial
+Tubulin beta chain
+BH0236 protein
+Beta-2 adrenergic receptor
+Protein amnionless
+Alpha-2-HS-glycoprotein
+5-hydroxytryptamine receptor 3B
+Spore coat polysaccharide biosynthesis protein SpsA
+Protein-glutamine gamma-glutamyltransferase 2
+Urokinase plasminogen activator surface receptor
+Acyl-CoA-binding protein
+Biotin synthase
+Cellular tumor antigen p53
+UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Aspartate-semialdehyde dehydrogenase
+2-dehydro-3-deoxyphosphooctonate aldolase
+Serine/threonine-protein kinase PAK 4
+N-acetylornithine carbamoyltransferase
+Hydroxyacyl-coenzyme A dehydrogenase, mitochondrial
+Glutaredoxin-1
+Calcitonin gene-related peptide 2
+Endoglucanase C307
+Capsid protein VP1
+Deacetoxycephalosporin C synthase
+Rod shape-determining protein MreB
+Probable arabinosyltransferase C
+Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial
+Bcl-2-like protein 1
+Low-density lipoprotein receptor-related protein 2
+Apolipoprotein D
+NAD-dependent protein deacetylase sirtuin-3, mitochondrial
+Ribonucleoside-diphosphate reductase 1 subunit beta
+5-hydroxytryptamine receptor 1A
+Nucleoside deoxyribosyltransferase
+Ig mu chain C region
+Heat shock-related 70 kDa protein 2
+Importin-7, putative
+Circadian clock protein KaiB
+Amicyanin
+Bile acid receptor
+Carboxypeptidase N catalytic chain
+Gentamicin 3'-acetyltransferase
+Glucan 1,3-beta-glucosidase
+Serine/threonine-protein kinase D1
+Lactoylglutathione lyase
+Adenylate dimethylallyltransferase
+Apolipoprotein A-IV
+Nuclear receptor coactivator 2
+Proteasome subunit beta type-8
+Splicing factor 3A subunit 2
+Propionyl-CoA carboxylase alpha chain, mitochondrial
+6-deoxyerythronolide B hydroxylase
+Putative inactive carboxylesterase 4
+Lecithin retinol acyltransferase
+Tyrosine-protein kinase FRK
+Glycogen phosphorylase, muscle form
+Macrophage migration inhibitory factor
+Alpha-xylosidase
+Carbonyl reductase [NADPH] 1
+Acyl-CoA synthetase
+Potassium voltage-gated channel subfamily A member 4
+Neutral alpha-glucosidase AB
+Lantibiotic mersacidin
+GTP-binding nuclear protein Ran
+Gephyrin
+Trefoil factor 2
+Integrase, catalytic core
+Tubulin alpha-3E chain
+Phenylethanolamine N-methyltransferase
+GTPase HRas
+Apolipoprotein A-I
+Glutathione S-transferase GstA
+Replicase polyprotein 1ab
+Aspartate 1-decarboxylase
+HLA class I histocompatibility antigen, B-57 alpha chain
+MecA PBP2' (penicillin binding protein 2')
+Interphotoreceptor matrix proteoglycan 2
+Transient receptor potential cation channel subfamily V member 4
+Calsequestrin-2
+Manganese catalase
+Protein unc-13 homolog B
+40S ribosomal protein S19
+Cyclooxygenase 2
+Vascular endothelial growth factor receptor 1
+Serine/threonine-protein kinase TAO2
+Insulin-like growth factor-binding protein complex acid labile subunit
+Gamma-aminobutyric acid receptor subunit gamma-3
+Adenylate kinase
+Mineralocorticoid receptor
+PCZA361.16
+Glutamate receptor ionotropic, kainate 5
+FEZ-1 protein
+Taste receptor type 1 member 2
+Chitobiase
+Ig gamma-4 chain C region
+Kell blood group glycoprotein
+Tyrosine-protein kinase receptor Tie-1
+Serine/threonine-protein kinase 35
+Matrix metalloproteinase-28
+Thymidine phosphorylase
+Proteasome subunit beta type-1
+Merozoite surface protein 1
+Proto-oncogene tyrosine-protein kinase Src
+Amine oxidase [flavin-containing] A
+Exopolyphosphatase
+Sodium channel subunit beta-2
+DNA polymerase epsilon subunit 2
+3-hydroxyacyl-CoA dehydrogenase type-2
+Baculoviral IAP repeat-containing protein 5
+Aquaporin-1
+Thioredoxin reductase 1, cytoplasmic
+Invasin
+Potassium voltage-gated channel subfamily H member 7
+Ceramide glucosyltransferase
+Limonene-1,2-epoxide hydrolase
+Platelet factor 4
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial
+Nuclear receptor coactivator 5
+Glutathione S-transferase Mu 2
+DNA polymerase beta
+Acetylserotonin O-methyltransferase
+Carbonic anhydrase 6
+Histidinol-phosphate aminotransferase
+Glycolipid transfer protein
+Lysozyme C
+Aldo-keto reductase family 1 member C1
+Xanthine dehydrogenase/oxidase
+Cell growth-regulating nucleolar protein
+T-complex protein 1 subunit gamma
+Porin D
+Cytochrome c peroxidase
+60 kDa heat shock protein, mitochondrial
+Protein PML
+Trafficking protein particle complex subunit 6B
+Gyrase A
+Glutathione S-transferase Mu 3
+ATP-dependent protease ATPase subunit HslU
+ATPase ASNA1
+DNA polymerase III subunit tau
+Exostosin-like 2
+Aquaporin Z
+Methylmalonyl-CoA mutase, mitochondrial
+Rho-related GTP-binding protein RhoE
+Heterogeneous nuclear ribonucleoprotein F
+Mitogen-activated protein kinase kinase kinase kinase 3
+Lantibiotic cinnamycin
+Phosphoribosylglycinamide formyltransferase 2
+UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Cubilin
+Pyridoxine/pyridoxamine 5'-phosphate oxidase
+Caspase-9
+Transient receptor potential cation channel subfamily M member 7
+Cytoplasmic membrane
+Vitamin K-dependent protein S
+cGMP-gated cation channel alpha-1
+NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+Cystinosin
+Fumarate hydratase class II
+Fibroblast growth factor 1
+Deoxyuridine 5'-triphosphate nucleotidohydrolase, mitochondrial
+GTP-binding protein RHO1
+NUAK family SNF1-like kinase 1
+Diacylglycerol kinase gamma
+Aldo-keto reductase family 1 member C2
+Putative gonadotropin-releasing hormone II receptor
+Beta-1 adrenergic receptor
+Inward rectifier potassium channel
+Capsid scaffolding protein
+Histone deacetylase 7
+Ribosomal RNA small subunit methyltransferase H
+Cyclopropane mycolic acid synthase 1
+Protein-arginine deiminase type-3
+AP2-associated protein kinase 1
+Transuranium elements
+14-3-3 protein beta/alpha
+Glutathione peroxidase 1
+Protein-L-isoaspartate O-methyltransferase
+Shikimate dehydrogenase
+GDP-mannose mannosyl hydrolase
+Monocarboxylate transporter 7
+Thromboxane-A synthase
+Beta-1,4-galactosyltransferase 4
+C-C chemokine receptor type 5
+Methionine aminopeptidase
+Catalase
+Calpain small subunit 1
+23S ribosomal RNA
+UDP-glucuronosyltransferase 1-9
+Sodium channel protein
+Pol protein
+Metabotropic glutamate receptor 3
+Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+Voltage-dependent L-type calcium channel subunit beta-2
+Phosphoserine phosphatase
+Tubulin alpha-8 chain
+Signal recognition particle protein
+Brain-derived neurotrophic factor
+Bone morphogenetic protein receptor type-1B
+Dual specificity mitogen-activated protein kinase kinase 3
+Uncharacterized MFS-type transporter EfpA
+Transcriptional activator protein LasR
+P2X purinoceptor 4
+Ephrin type-A receptor 3
+Serine/threonine-protein kinase Nek3
+Tubulin alpha-4A chain
+Phosphoenolpyruvate carboxylase
+Serine dehydratase-like
+Activin receptor type-1
+Cytochrome P450 19A1
+Prohibitin
+Nicotinamide N-methyltransferase
+Cysteinyl leukotriene receptor 2
+CD70 antigen
+Pyridoxal 5'-phosphate synthase subunit Pdx1
+ADP-ribosylation factor 6
+Melanocortin receptor 4
+Splicing factor, proline- and glutamine-rich
+Inorganic polyphosphate/ATP-glucomannokinase
+Cytochrome P450 2C9
+Serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform
+Possible cellulase CelA1 (Endoglucanase) (Endo-1,4-beta-glucanase) (FI-cmcase) (Carboxymethyl cellulase)
+Histamine H3 receptor
+Mitochondrial ATP-sensitive potassium channel
+Asparagine synthetase [glutamine-hydrolyzing]
+Solute carrier family 12 member 7
+Colipase
+Peptide deformylase, mitochondrial
+Plasminogen activator inhibitor 1
+Ephrin type-B receptor 2
+Botulinum neurotoxin type E
+Serine/threonine-protein kinase RIO3
+2,4-dienoyl-CoA reductase, mitochondrial
+NADH-ubiquinone oxidoreductase chain 2
+Retinol dehydrogenase 13
+Isoaspartyl dipeptidase
+D-Ala-D-Ala moiety of NAM/NAG peptide subunits of peptidoglycan
+Polycomb protein SCMH1
+Atypical kinase COQ8B, mitochondrial
+ADP compounds hydrolase NudE
+Serine acetyltransferase
+Orexin
+Spike glycoprotein
+C4b-binding protein alpha chain
+Lanosterol synthase
+Laminin subunit alpha-1
+Adenylate cyclase type 1
+Cyclopropane mycolic acid synthase 3
+CHRNA7-FAM7A fusion protein
+Thioredoxin peroxidase 1
+Aminomethyltransferase, mitochondrial
+Tubulin alpha-1B chain
+Hemagglutinin-neuraminidase
+Fructose-bisphosphate aldolase class 2
+Major prion protein
+Potassium voltage-gated channel subfamily C member 1
+Guanylyl cyclase-activating protein 1
+Fumarate reductase subunit C
+Lysosomal alpha-glucosidase
+Alpha-enolase
+Calcium-activated potassium channel subunit alpha-1
+DNA-3-methyladenine glycosylase
+Folate receptor beta
+Glutathione peroxidase
+Serine/threonine-protein kinase Nek11
+Sec62, putative
+Serine/threonine-protein kinase 33
+Beta-2-glycoprotein 1
+Transcobalamin-1
+Beta-fructosidase
+Aldo-keto reductase family 1 member C4
+Orexin receptor type 2
+Retinoic acid receptor responder protein 1
+Transient receptor potential cation channel subfamily A member 1
+Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+Actin, cytoplasmic 1
+Matrix metalloproteinase-9
+cGMP-dependent 3',5'-cyclic phosphodiesterase
+Potassium voltage-gated channel subfamily C member 3
+Peptide methionine sulfoxide reductase MsrA
+5-oxoprolinase
+Sensor histidine kinase CitA
+NADP-dependent isopropanol dehydrogenase
+Peptidyl-prolyl cis-trans isomerase A
+Nuclear receptor-interacting protein 1
+General stress protein 69
+Serine hydroxymethyltransferase, mitochondrial
+Tubulin beta-4A chain
+Inactive dihydropteroate synthase 2
+Bifunctional protein MdtA
+Uracil phosphoribosyltransferase
+Ras GTPase-activating-like protein IQGAP1
+C-C chemokine receptor type 4
+Bile salt-activated lipase
+Phospholipase D2
+ADP-ribosyl cyclase 1
+Growth hormone receptor
+Dopamine D4 receptor
+Platelet-activating factor receptor
+Tumor necrosis factor receptor superfamily member 17
+GTP cyclohydrolase 1
+T-cell surface glycoprotein CD3 epsilon chain
+Glycine N-acyltransferase-like protein 2
+Aldehyde dehydrogenase X, mitochondrial
+Serine/threonine-protein kinase mTOR
+Guanine deaminase
+Oxidoreductase YdhF
+Cysteine dioxygenase type 1
+NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial
+Islet amyloid polypeptide
+Cytochrome c''
+Actin-1
+Fructose-bisphosphate aldolase A
+Parathyroid hormone/parathyroid hormone-related peptide receptor
+Diacylglycerol kinase alpha
+Protein S100-G
+Tumor necrosis factor receptor superfamily member 8
+Heterogeneous nuclear ribonucleoprotein D0
+Chymotrypsin-like elastase family member 1
+Alternative prion protein
+Nonstructural protein 5B (NS5B)
+Calcium/calmodulin-dependent protein kinase type II subunit delta
+DNA beta-glucosyltransferase
+Dual specificity mitogen-activated protein kinase kinase 6
+30S ribosomal protein S19
+Prostaglandin F2-alpha receptor
+Platelet basic protein
+Interleukin-23 subunit alpha
+Cation-dependent mannose-6-phosphate receptor
+Potassium voltage-gated channel subfamily E member 1
+Mitogen-activated protein kinase kinase kinase 3
+Alcohol dehydrogenase 1C
+Heat shock protein beta-1
+Serotonin Receptors
+Histone acetyltransferase KAT5
+Receptor-type tyrosine-protein phosphatase beta
+Keratin, type II cytoskeletal 8
+Botulinum neurotoxin type A
+Arginase
+Amidophosphoribosyltransferase
+Caspase-4
+Low molecular weight phosphotyrosine protein phosphatase
+Nitric oxide synthase, brain
+Indoleamine 2,3-dioxygenase 1
+Acid-sensing ion channel 1
+CAMPATH-1 antigen
+Prostaglandin E synthase 3
+Interleukin-15
+Lactotransferrin
+Galactokinase
+Polyadenylate-binding protein
+Prostaglandin E2 receptor EP3 subtype
+1,2-dihydroxynaphthalene dioxygenase
+Endo-N-acetylneuraminidase
+4'-phosphopantetheinyl transferase sfp
+5-hydroxytryptamine receptor 1
+Cystine/glutamate transporter
+Arginase-1
+Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3
+Lactase-like protein
+Tropomyosin alpha-3 chain
+BDNF/NT-3 growth factors receptor
+Retinal dehydrogenase 1
+30S ribosomal protein S15
+Peptide deformylase 2
+Ferritin light chain
+Calcyphosin
+Glutamine synthetase
+Phosphoglycerate mutase 2
+Scavenger receptor class B member 1
+Serine/threonine-protein kinase B-raf
+Phosphoethanolamine/phosphocholine phosphatase
+80S ribosomal subunit
+Metallo-beta-lactamase L1
+Glutamine-dependent NAD(+) synthetase
+Neuronal acetylcholine receptor subunit alpha-5
+Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma
+DNA polymerase/reverse transcriptase
+Potassium voltage-gated channel subfamily D member 1
+Cytochrome c oxidase subunit 4 isoform 1, mitochondrial
+Taste receptor type 2 member 16
+MAP kinase-activated protein kinase 3
+Formylmethionine deformylase, putative
+ATP synthase subunit a
+Branched-chain-amino-acid aminotransferase, mitochondrial
+Potassium-transporting ATPase B chain
+Methionyl-tRNA formyltransferase
+Kinesin-like protein KIF1A
+Serine/threonine-protein kinase Nek5
+Isocitrate lyase
+Type II secretion system protein E
+Probable butyrate kinase 2
+Enoyl-CoA delta isomerase 1, mitochondrial
+Growth/differentiation factor 8
+Amiloride-sensitive sodium channel subunit delta
+Kelch-like ECH-associated protein 1
+Cellulose 1,4-beta-cellobiosidase (reducing end) CelS
+Queuine tRNA-ribosyltransferase
+Chemotaxis protein CheA
+5-hydroxytryptamine receptor 3E
+Vasopressin V1b receptor
+Glutathione peroxidase 7
+Pancreatic triacylglycerol lipase
+Glutamate decarboxylase 2 (Pancreatic islets and brain, 65kDa)
+Thermolysin
+2'-hydroxybiphenyl-2-sulfinate desulfinase
+STE20-like serine/threonine-protein kinase
+Serine/threonine-protein kinase Nek1
+cGMP-specific 3',5'-cyclic phosphodiesterase
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 2
+Serine/threonine protein kinase UL97
+Triggering receptor expressed on myeloid cells 1
+Isoaspartyl peptidase/L-asparaginase
+Low affinity cationic amino acid transporter 2
+N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+Kappa-type opioid receptor
+Fiber
+Thiol:disulfide interchange protein DsbC
+Diphtheria toxin
+Fatty-acid amide hydrolase 1
+2,5-diketo-D-gluconic acid reductase A
+ATP synthase subunit O, mitochondrial
+Dual specificity mitogen-activated protein kinase kinase 2
+Retinoid isomerohydrolase
+Caspase-7
+Copper transport protein ATOX1
+Coagulation factor V
+Cocaine esterase
+Endoglucanase F
+Proactivator polypeptide
+Methane monooxygenase component A alpha chain
+Potassium voltage-gated channel subfamily A member 5
+Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial
+Sodium channel protein type 1 subunit alpha
+Receptor-interacting serine/threonine-protein kinase 2
+Complement C1r subcomponent
+Calcium signal-modulating cyclophilin ligand
+Sucrose porin
+Potassium voltage-gated channel subfamily C member 4
+Carbonic anhydrase 7
+Pteridine reductase 1
+DNA
+Transferrin receptor protein 1
+Cyclin-dependent kinase 8
+Thymidylate synthase 1
+Ubiquitin-conjugating enzyme E2
+3-carboxy-cis,cis-muconate cycloisomerase
+Adenylosuccinate synthetase
+Arginase-2, mitochondrial
+Methylmalonate-semialdehyde dehydrogenase [acylating], mitochondrial
+Botulinum neurotoxin type B
+Alkaline phosphatase
+Angiopoietin-related protein 3
+Carbapenam-3-carboxylate synthase
+Protein kinase C beta type
+Choline O-acetyltransferase
+Transient receptor potential cation channel subfamily M member 8
+Potassium voltage-gated channel subfamily D member 3
+Glutamate dehydrogenase 1, mitochondrial
+Tyrosine--tRNA ligase, mitochondrial
+Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3
+DNA polymerase I
+Ephrin type-A receptor 7
+Citrate synthase, mitochondrial
+60S ribosomal protein L8
+Beta-lactamase OXA-10
+Voltage-dependent L-type calcium channel
+Tryptophan 5-hydroxylase 1
+Gamma-aminobutyric acid receptor subunit rho-3
+Iota toxin component Ia
+dTDP-glucose 4,6-dehydratase
+AlgQ2
+Bifunctional enzyme IspD/IspF
+Glutathione S-transferase theta-1
+S-adenosylmethionine synthase isoform type-2
+Leukotriene C4 synthase
+Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
+Calretinin
+DNA repair protein XRCC4
+Branched-chain-amino-acid aminotransferase
+Pleckstrin homology domain-containing family A member 4
+Glutamate receptor ionotropic, kainate 3
+Aldehyde dehydrogenase family 1 member A3
+Dihydrolipoyl dehydrogenase, mitochondrial
+Actin-related protein 2/3 complex subunit 1B
+4-hydroxyphenylpyruvate dioxygenase
+Aquaporin-3
+2-hydroxymuconate tautomerase
+Superoxide Dismutases
+Melanocyte-stimulating hormone receptor
+Tyrosine-protein kinase Blk
+DDC protein
+Alanine aminotransferase 2
+NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial
+Complement component C8 beta chain
+Fe(II)-protoporphyrin IX
+Glutathione S-transferase
+30S ribosomal protein S20
+Calnexin
+Inter-alpha-trypsin inhibitor heavy chain H3
+Isopentenyl-diphosphate Delta-isomerase
+Cytochrome c4
+Naphthalene 1,2-dioxygenase subunit beta
+C55-isoprenyl pyrophosphate
+cAMP-dependent protein kinase type II-beta regulatory subunit
+Non-secretory ribonuclease
+Microtubule-associated protein 4
+Glutathione S-transferase omega-2
+DNA ligase
+Inhibitor of nuclear factor kappa-B kinase subunit alpha
+Cocaine- and amphetamine-regulated transcript protein
+Cholesterol oxidase
+Glutathione peroxidase 2
+Methylated-DNA--protein-cysteine methyltransferase
+Fatty acid-binding protein, intestinal
+Keratin, type II cytoskeletal 2 epidermal
+40S ribosomal protein S6
+Toll-like receptor 4
+Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha
+Steryl-sulfatase
+Testis-specific serine/threonine-protein kinase 1
+D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+Prostaglandin reductase 2
+Glutathione peroxidase 3
+Protease
+Carbonic anhydrase-related protein 10
+Matrix metalloproteinase-16
+Secreted frizzled-related protein 4
+Transketolase
+Nucleolar and coiled-body phosphoprotein 1
+Fatty acid desaturase 1
+Neurokinin 1 receptor
+Endonuclease 8-like 2
+Prostaglandin E2 receptor EP1 subtype
+Carboxypeptidase E
+5-aminolevulinate synthase, erythroid-specific, mitochondrial
+Dihydropteridine reductase
+Myosin-9
+Ras-related protein Rab-7a
+Glycine receptor subunit alpha-1
+Lanosterol 14-alpha demethylase
+Capsule biosynthesis protein
+ABC transporter, periplasmic substrate-binding protein
+Follicle-stimulating hormone receptor
+DNA polymerase kappa
+Tyrosine-protein kinase Mer
+Dual specificity protein kinase CLK4
+Neopullulanase 1
+Inter-alpha-trypsin inhibitor heavy chain H1
+Calreticulin-3
+NAM/NAG peptide subunits of peptidoglycan
+Uncharacterized acyl-CoA thioester hydrolase HI_0827
+Diacylglycerol O-acyltransferase 2
+Sulfide-quinone reductase
+Carminomycin 4-O-methyltransferase
+Cathelicidin antimicrobial peptide
+Osmolarity sensor protein EnvZ
+ATP synthase subunit c
+Prostaglandin D2 receptor
+Bacteriochlorophyll a protein
+Lymphatic vessel endothelial hyaluronic acid receptor 1
+Stathmin-4
+Calpastatin
+Myosin light chain kinase, smooth muscle
+Diacylglycerol kinase
+Phosphatidylinositol transfer protein alpha isoform
+Tyrosine-protein kinase receptor TYRO3
+Vasopressin V2 receptor
+Voltage-dependent R-type calcium channel subunit alpha-1E (CACNA1E)
+Excitatory amino acid transporter 4
+Excitatory amino acid transporter 1
+cAMP-specific 3',5'-cyclic phosphodiesterase 3
+Choline-phosphate cytidylyltransferase A
+Methionine--tRNA ligase
+Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit gamma isoform
+Cytochrome c551 peroxidase
+Small nuclear ribonucleoprotein Sm D2
+CLIP-associating protein 1
+Solute carrier family 12 member 6
+Fibrinogen alpha chain
+Eukaryotic translation initiation factor 3 subunit F

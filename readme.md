@@ -1,5 +1,10 @@
 
 # Introduction
+Paper:
+```
+GCKG: a multi-task learning-based framework for Gastric Cancer Knowledge Graph and drug discovery
+```
+
 The project includes code for entity extraction, entity normalization, relational classification, and knowledge embedding. 
 
 # Dataset
@@ -24,3 +29,4 @@ pytorch >= 1.7
 
 # Contact Information
 For help or issues using GCKG, please submit a GitHub issue. 
+

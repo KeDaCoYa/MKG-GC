@@ -14,10 +14,48 @@ Download link for the dataset： https://pan.baidu.com/s/1MFi3Pn9-9smapogtMOdx7w
 
 Note： Due to the limitations of the agreement between UMLS and DrugBank, we are unable to provide corresponding data
 
+## entity extraction dataformat
+``
+
+``
+## entity normalization dataformat
+
+## relation classification dataformat
+
+
+
 
 # Run
 
 You need to download biobert first: https://github.com/dmis-lab/biobert
+
+## entity extraction
+
+```bash
+cd entity_extraction
+bash multi_run.sh
+```
+
+## entity extraction
+
+```bash
+cd entity_extraction
+bash multi_run.sh
+```
+## entity normalization
+
+```bash
+cd entity_normalization
+bash multi_train.sh
+```
+
+## relation classification
+
+```bash
+cd relation_classification
+bash multi_run.sh
+```
+
 
 
 # requirements

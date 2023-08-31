@@ -67,7 +67,7 @@ def return_dictionary_url(norm_id,entity_type):
         raise ValueError("no this entity type:{}".format(entity_type))
     return url
 if __name__ == '__main__':
-    read_raw_dataset("/root/code/bioner/BioNormalization/dataset/abstract_res/single_model_abstracts_entities.json")
+    read_raw_dataset("./dataset/abstract_res/single_model_abstracts_entities.json")
 
 
 

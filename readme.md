@@ -18,7 +18,7 @@ Note： Due to the limitations of the agreement between UMLS and DrugBank, we ar
 
 BIO format
 for example:
-``
+```
 gastric B-Disease
 cancer I-Disease
 is O
@@ -26,7 +26,7 @@ a O
 malignant B-Disease
 disease I-Disease
 . O
-``
+```
 ## entity normalization dataformat
 Each medical entity corresponds to an ID, and multiple medical entity names have the same ID
 For Example:

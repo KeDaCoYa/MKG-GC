@@ -2,7 +2,7 @@
 # Introduction
 Paper:
 ```
-GCKG: a multi-task learning-based framework for Gastric Cancer Knowledge Graph and drug discovery
+MKG-GC: a multi-task learning-based knowledge graph framework with personalized application to gastric cancer
 ```
 
 The project includes code for entity extraction, entity normalization, relational classification, and knowledge embedding. 
@@ -87,5 +87,5 @@ pytorch >= 1.7
 ```
 
 # Contact Information
-For help or issues using GCKG, please submit a GitHub issue. 
+For help or issues using MKG-GC, please submit a GitHub issue. 
 

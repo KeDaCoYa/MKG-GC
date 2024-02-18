@@ -10,8 +10,8 @@ The project includes code for entity extraction, entity normalization, relationa
 # Dataset
 
 Download link for the dataset： 
-- baidu drive:[link](https://pan.baidu.com/s/1MFi3Pn9-9smapogtMOdx7w)  code: ezvp
-- google drive： [link](!https://drive.google.com/file/d/1jkT8ZhLW1GP6SVdOF11JQ3AnDUqJM0aN/view?usp=sharing)
+- baidu drive: [link](https://pan.baidu.com/s/1MFi3Pn9-9smapogtMOdx7w)  code: ezvp
+- google drive：[link](https://drive.google.com/file/d/1jkT8ZhLW1GP6SVdOF11JQ3AnDUqJM0aN/view?usp=sharing)
 
 Note： Due to the limitations of the agreement between UMLS and DrugBank, we are unable to provide corresponding data
 
